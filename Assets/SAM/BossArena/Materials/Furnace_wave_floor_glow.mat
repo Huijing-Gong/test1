@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Furnace_wave_floor_glow
+  m_Shader: {fileID: 4800000, guid: 44586be7c7a4dbb4cadf0a7f16885193, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _USEDEPTHFADE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 127d61901aa91b346884d9aa9e3d45c7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Dissolve: 0
+    - _EdgeSoftness: 0.09
+    - _EmissionPower: 2.2
+    - _FlowSpeed: 2.2
+    - _Fragmentation: 0.5
+    - _LocalTime: 0
+    - _NoiseScale: 2.5
+    - _Opacity: 1
+    - _ReviewMode: 0
+    - _Seed: 0
+    - _ShapeMode: 1
+    - _SoftDistance: 0.065
+    - _UseDepthFade: 1
+    - _VolumeCoreBreakup: 0.72
+    - _VolumeDensity: 3.7
+    - _VolumeDomainScale: 2.6
+    - _VolumePhase: 0
+    - _VolumeSteps: 40
+    - _VolumeTurbulence: 0.62
+    - _ZTest: 4
+    m_Colors:
+    - _BaseColor: {r: 1, g: 0.06, b: 0.004, a: 1}
+    - _HotColor: {r: 1, g: 0.68, b: 0.14, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

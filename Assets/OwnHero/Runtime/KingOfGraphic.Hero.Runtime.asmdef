@@ -1,0 +1,1 @@
+{"name":"KingOfGraphic.Hero.Runtime","rootNamespace":"KingOfGraphic.Hero","references":["Unity.InputSystem","Unity.RenderPipelines.Core.Runtime","Unity.RenderPipelines.Universal.Runtime"],"autoReferenced":true}

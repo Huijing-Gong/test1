@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 1bc77833271c0434ea978b5028ddfa4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3442037212579652307
+    second: RuneStripUnlit_0
+  - first:
+      213: 7327576747978583725
+    second: RuneStripUnlit_1
+  - first:
+      213: -5909291397374934566
+    second: RuneStripUnlit_2
+  - first:
+      213: 3309366839533032560
+    second: RuneStripUnlit_3
+  - first:
+      213: 6203600649706468632
+    second: RuneStripUnlit_4
+  - first:
+      213: -8844479114364019319
+    second: RuneStripUnlit_5
+  - first:
+      213: 8484635638806555296
+    second: RuneStripUnlit_6
+  - first:
+      213: 2318078076438095853
+    second: RuneStripUnlit_7
+  - first:
+      213: -1387020409415337489
+    second: RuneStripUnlit_8
+  - first:
+      213: 8887931806458553228
+    second: RuneStripUnlit_9
+  - first:
+      213: -9163615184646644447
+    second: RuneStripUnlit_10
+  - first:
+      213: 825068217146665058
+    second: RuneStripUnlit_11
+  - first:
+      213: -1761958144309047624
+    second: RuneStripUnlit_12
+  - first:
+      213: 2526599912162525433
+    second: RuneStripUnlit_13
+  - first:
+      213: 6493744408623606386
+    second: RuneStripUnlit_14
+  - first:
+      213: 6438835527524507137
+    second: RuneStripUnlit_15
+  - first:
+      213: 7926336949817940813
+    second: RuneStripUnlit_16
+  - first:
+      213: -3771746334800084148
+    second: RuneStripUnlit_17
+  - first:
+      213: 2577686797224259223
+    second: RuneStripUnlit_18
+  - first:
+      213: -1543183517796415366
+    second: RuneStripUnlit_19
+  - first:
+      213: 1513803854653842119
+    second: RuneStripUnlit_20
+  - first:
+      213: 223101257104886882
+    second: RuneStripUnlit_21
+  - first:
+      213: -5667177385959712133
+    second: RuneStripUnlit_22
+  - first:
+      213: 5678205404152307071
+    second: RuneStripUnlit_23
+  - first:
+      213: 2737739381418384889
+    second: RuneStripUnlit_24
+  - first:
+      213: 4162510179908055612
+    second: RuneStripUnlit_25
+  - first:
+      213: -4754762616250436746
+    second: RuneStripUnlit_26
+  - first:
+      213: 5121496068207130701
+    second: RuneStripUnlit_27
+  - first:
+      213: -2629649943515595288
+    second: RuneStripUnlit_28
+  - first:
+      213: 6059743312409552744
+    second: RuneStripUnlit_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 27.550646
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 29
+    textureCompression: 2
+    compressionQuality: 80
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RuneStripUnlit_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 42
+        width: 2107
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d9380546d6b30d0800000000000000
+      internalID: -3442037212579652307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 622
+        width: 116
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daeeca7aa38c0b560800000000000000
+      internalID: 7327576747978583725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_2
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 594
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1023968cafdfda0800000000000000
+      internalID: -5909291397374934566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_3
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 594
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074d2d55b9b3ded20800000000000000
+      internalID: 3309366839533032560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_4
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 182
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815f22e3ced971650800000000000000
+      internalID: 6203600649706468632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 112
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d98f40b19124580800000000000000
+      internalID: -8844479114364019319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_6
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 128
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa2fa3f82b7fb570800000000000000
+      internalID: 8484635638806555296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_7
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 122
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7a6b39ab77b2020800000000000000
+      internalID: 2318078076438095853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_8
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 118
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9f490594050cce0800000000000000
+      internalID: -1387020409415337489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 96
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83abdf33e6485b70800000000000000
+      internalID: 8887931806458553228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_10
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 111
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dd2cc5a8c44d080800000000000000
+      internalID: -9163615184646644447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_11
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 103
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268ed7e0c2b337b00800000000000000
+      internalID: 825068217146665058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_12
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 112
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be4a5b27644c87e0800000000000000
+      internalID: -1761958144309047624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 96
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f00bfdcb39401320800000000000000
+      internalID: 2526599912162525433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_14
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 99
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a6032622a6e1a50800000000000000
+      internalID: 6493744408623606386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_15
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 98
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e53414cc65b5950800000000000000
+      internalID: 6438835527524507137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_16
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 97
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b93f7d571000e60800000000000000
+      internalID: 7926336949817940813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_17
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 95
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c430c5b21b018abc0800000000000000
+      internalID: -3771746334800084148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_18
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 95
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e24c22c78c5c320800000000000000
+      internalID: 2577686797224259223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_19
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 104
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78c18644c2859ae0800000000000000
+      internalID: -1543183517796415366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_20
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 103
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c26248d59c120510800000000000000
+      internalID: 1513803854653842119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_21
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 96
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c0eaa496d981300800000000000000
+      internalID: 223101257104886882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_22
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 93
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a9eb681342a51b0800000000000000
+      internalID: -5667177385959712133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_23
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 95
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d933c0bb90dce40800000000000000
+      internalID: 5678205404152307071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_24
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 101
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd5a0556776ef520800000000000000
+      internalID: 2737739381418384889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_25
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 91
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32fd5764f434c930800000000000000
+      internalID: 4162510179908055612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_26
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 79
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673f513a790b30eb0800000000000000
+      internalID: -4754762616250436746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_27
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 83
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48bb080a85331740800000000000000
+      internalID: 5121496068207130701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_28
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 81
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed70211f4b918bd0800000000000000
+      internalID: -2629649943515595288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuneStripUnlit_29
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 77
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867683ecf68881450800000000000000
+      internalID: 6059743312409552744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RuneStripUnlit_0: -3442037212579652307
+      RuneStripUnlit_1: 7327576747978583725
+      RuneStripUnlit_10: -9163615184646644447
+      RuneStripUnlit_11: 825068217146665058
+      RuneStripUnlit_12: -1761958144309047624
+      RuneStripUnlit_13: 2526599912162525433
+      RuneStripUnlit_14: 6493744408623606386
+      RuneStripUnlit_15: 6438835527524507137
+      RuneStripUnlit_16: 7926336949817940813
+      RuneStripUnlit_17: -3771746334800084148
+      RuneStripUnlit_18: 2577686797224259223
+      RuneStripUnlit_19: -1543183517796415366
+      RuneStripUnlit_2: -5909291397374934566
+      RuneStripUnlit_20: 1513803854653842119
+      RuneStripUnlit_21: 223101257104886882
+      RuneStripUnlit_22: -5667177385959712133
+      RuneStripUnlit_23: 5678205404152307071
+      RuneStripUnlit_24: 2737739381418384889
+      RuneStripUnlit_25: 4162510179908055612
+      RuneStripUnlit_26: -4754762616250436746
+      RuneStripUnlit_27: 5121496068207130701
+      RuneStripUnlit_28: -2629649943515595288
+      RuneStripUnlit_29: 6059743312409552744
+      RuneStripUnlit_3: 3309366839533032560
+      RuneStripUnlit_4: 6203600649706468632
+      RuneStripUnlit_5: -8844479114364019319
+      RuneStripUnlit_6: 8484635638806555296
+      RuneStripUnlit_7: 2318078076438095853
+      RuneStripUnlit_8: -1387020409415337489
+      RuneStripUnlit_9: 8887931806458553228
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Meadow foliage clump
+  m_Shader: {fileID: 4800000, guid: 99dc1bb50815b3d45aa666452e5e1cc9, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _AmbientFloor: 0.22
+    - _FineStrength: 0.022
+    - _PatchScale: 0.055
+    - _PatchStrength: 0.28
+    m_Colors:
+    - _BaseColor: {r: 0.42, g: 0.56, b: 0.19, a: 1}
+    - _CoolColor: {r: 0.27, g: 0.45, b: 0.16, a: 1}
+    - _DryColor: {r: 0.48, g: 0.57, b: 0.23, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

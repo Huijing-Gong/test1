@@ -1,0 +1,28 @@
+{
+  "videoUrl": "https://youtu.be/NqJliy-I8mo",
+  "gameTitle": "Folded Realm",
+  "gameBlurb": "Explore a mysterious folded world, master movement and combat, complete challenging trials, and face the final boss.",
+  "teamName": "KingOfGraphic",
+  "teamMembers": [
+    {
+      "name": "Zixin Xu",
+      "github": "kennyxu04",
+      "email": "zxu724@student.unimelb.edu.au"
+    },
+    {
+      "name": "Cen Cheuk Pan",
+      "github": "Cencc123",
+      "email": "cencc@student.unimelb.edu.au"
+    },
+    {
+      "name": "huijing gong ",
+      "github": "Huijing-Gong",
+      "email": "huijing.gong@student.unimelb.edu.au"
+    },
+    {
+        "name": "Siyan Liu",
+        "github": "QwQ-OvO",
+        "email": "sliu13273@student.unimelb.edu.au"
+    }
+  ]
+}

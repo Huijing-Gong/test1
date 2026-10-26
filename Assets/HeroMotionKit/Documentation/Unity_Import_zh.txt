@@ -1,0 +1,45 @@
+主角 Unity 动作交付包 — 2026-10-16
+
+内容：最新修整后的120条独立动画FBX、1个带65根骨骼的主角模型、1张1024×1024基础颜色贴图，以及显式Unity编辑器配置菜单。
+其中39条包含本轮自然度调整。角色约0.9995米高、4805顶点，每顶点最多4个骨骼影响。包内没有重复角色网格、旧版FBX或Blender中间文件。
+
+一、导入（推荐）
+1. 在Unity项目中打开 Assets > Import Package > Custom Package，选择 Hero_Unity_120Actions_20261016.unitypackage，保留全部选项导入。
+2. 等待Unity导入和脚本编译完成，点击 Tools > Hero Motion > Setup Humanoid Package。
+3. 菜单会先建立并验证模型的Humanoid Avatar，再让120条动画共用该Avatar；建立适合当前Built-in/URP/HDRP的材质、预览控制器和角色Prefab。
+4. 将 Assets/HeroMotionKit/Generated/Hero.prefab 拖入你要使用的场景。默认播放 COMBAT_IDLE。
+5. 导入报告在 Generated/UnityImportReport.json；也可以执行 Tools > Hero Motion > Validate Package 再检查。
+
+编辑器脚本面向本项目Unity 6000.3.22f1，已用该版本程序集编译通过。本次未打开Unity执行实际导入，因此首次导入后的Avatar有效性和Humanoid重定向观感仍须以Unity报告及预览为准。
+菜单仅操作 Assets/HeroMotionKit 内的内容，不改你的当前场景、项目渲染管线或原控制器。首次运行需要等待120条动画重导入。
+如果没有菜单，先等待编译，并查看Console是否存在本项目其他脚本编译错误。若Avatar无效，检查Hero_Model的Rig / Configure，确认映射后再运行菜单。
+
+二、动作怎么用
+Animations/ 每个ID对应一个独立FBX。Catalog/motions.json提供中文名称、实际秒数、循环标志、参考时刻、来源Action与尚未实装验收的限制。
+Generated/Hero_MotionPreview.controller中有120个独立状态，状态名就是ID，默认COMBAT_IDLE，没有自动攻击转换、伤害判定或按键控制。
+自己的控制器可直接使用这些FBX内的AnimationClip。若程序切换预览状态，可用 animator.CrossFadeInFixedTime("ATK_A1", 0.05f)，仅作播放示例。
+普攻连接：A1在0.44秒接A2，A2在0.50秒接A3；没续按时继续各自回位尾段。两种强化攻击分别为 ATK_BOOST_DODGE、ATK_BOOST_GUARD。
+格挡：GUARD_ENTER / GUARD_HOLD / GUARD_IMPACT / GUARD_EXIT；普通与极限闪避分别为 DODGE_* / PERFECT_DODGE_*，四方向为F/B/L/R。
+坐椅：INTERACT_REST_ENTER / INTERACT_REST_HOLD / INTERACT_REST_EXIT。旧CHAIR_SIT_*仅是这三条的别名，没有重复导出。
+HAND_GRIP_R是局部握柄动作；已提供 Generated/RightFingers.mask，应在独立手指层使用，不要整身覆盖行走。拔收剑已烘焙待机基底，可按游戏需要另配上半身遮罩。
+EQUIP_DRAW / EQUIP_SHEATHE采用紧凑显隐方案，不是带实体剑鞘的完整拔收剑。角色包不含正式武器；请把游戏中的剑挂到Humanoid RightHand，并按握柄方向校准局部变换。
+
+三、尺度、位移与接触
+模型与所有动作保持相同原始尺度，导入Scale Factor=1并使用FBX单位。若人物在游戏中需要约1.7米，统一放大角色实例和配套接触尺寸，不要只改其中某个FBX的骨架缩放。
+默认Animator.applyRootMotion=false，根旋转、XZ与Y烘焙到姿势，保留髋骨重心和蹲伏；移动速度、跳跃轨迹、闪避位移由控制器负责。
+不启用Loop Pose自动修饰，避免改变已经对齐的接点。42条循环、78条单次；AIR_RISE是起跳到下落的过渡，已修正为非循环。
+Start结束接Walk的0.25秒相位；Walk的0.4秒接Stop；Run的0.3秒接RunStop。不要只以0相位强行连接。
+坐椅示例的椅面高度0.3274米、椅中心在角色身后约0.178米（原工作尺度），需与实际椅子对齐。游戏中的墙面、梯档、绳子、平台、水位和敌人均未在本次包中实装验收。
+攀爬/翻顶中已有的身体局部位移和控制器的整体移动要协调，避免重复抬升或旋转。攀爬等57条仍标为contact_preview，不把离线通过当成场景接触已合格。
+
+四、验证与体积
+120条FBX均在Blender MCP中回读，逐条检查65骨名称、绑定姿势及11个时刻的骨骼姿态。另抽查30条模型蒙皮与动画配对，包含核心战斗、坐椅、拔收剑和部分复杂动作。
+角色模型回读顶点误差小于0.001毫米；动作配对最大采样蒙皮误差小于0.7毫米。源网格、UV、权重和骨架静置姿势未修改。
+114条按120fps烘焙，6条快变动作按480fps烘焙以保留局部姿势；它们的播放时长保持原秒数，不是加快播放。默认关闭动画压缩，后续可在Unity目视验证后按项目内存需求设置压缩。
+贴图是当前动画工作模型所含的1024×1024版本。本包没有将其假称4K，也未放大重采样；如果另有最终高分辨率贴图，可在一致UV前提下替换材质贴图。
+详细记录在Documentation/中的验证JSON、EditorCompileCheck.json、SourceAndLicense.txt和ActionSources.json。
+此包是本项目资产交接，整包非CC0；第三方来源遵守原许可，见Documentation/Licenses。
+
+官方Unity导入设置参考：
+https://docs.unity.com/en-us/engine/6000.3/script-reference/unityeditor/modelimporterclipanimation
+https://docs.unity.com/en-us/engine/6000.3/script-reference/unityeditor/modelimporteravatarsetup/copyfromother

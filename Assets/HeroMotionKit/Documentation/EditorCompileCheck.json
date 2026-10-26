@@ -1,0 +1,23 @@
+{
+  "script": "Assets/HeroMotionKit/Editor/HeroMotionSetup.cs",
+  "checked_on_local_date": "2026-10-16",
+  "timezone": "Australia/Sydney",
+  "unity_assembly_version": "6000.3.22f1",
+  "method": "Independent C# compilation with the installed Unity Editor Roslyn compiler, UnityEditor/UnityEngine module assemblies and Unity netstandard 2.1 reference assembly. UNITY_EDITOR defined; C# language version 9.0.",
+  "result": "passed",
+  "compiler_exit_code": 0,
+  "errors": 0,
+  "warnings": 0,
+  "temporary_dll_bytes": 28160,
+  "temporary_dll_in_delivery": false,
+  "unity_editor_launched_for_check": false,
+  "actual_fbx_import_executed": false,
+  "setup_menu_executed": false,
+  "runtime_animation_validation_executed": false,
+  "limitations": [
+    "Compilation verifies C# syntax and referenced Unity API availability, not runtime behaviour of the importer or generated assets.",
+    "Run Tools/Hero Motion/Setup Humanoid Package inside Unity to create the Avatar, material, controller, prefab, AvatarMask and UnityImportReport.json.",
+    "Actual Humanoid retargeting, appearance, movement and scene contacts still require visual checks in Unity.",
+    "Unity 2022.3 compatibility was considered during implementation but was not compiled or imported in that Editor version."
+  ]
+}

@@ -1,0 +1,3973 @@
+{
+  "schema_version": 1,
+  "scope_zh": "用户本项目内部主角资产交接；本文件是现存制作记录的精简摘录，不重新授予素材许可。",
+  "current_index_record": "deliverables/current_motion_index.json",
+  "current_index_updated_at_utc": "2026-10-16T05:00:38.909424+00:00",
+  "interpretation_zh": {
+    "selected_pre_refinement_source": "当前自然度修整之前实际选中的源Action/文件。",
+    "initial_assembly_source": "120项首次汇总来源；后续可能已换源，以selected_pre_refinement_source和current_action为准。",
+    "initial_selected_candidate_origin": "仅在候选Action与首次汇总源名称相等时附上其实际来源描述。",
+    "recorded_prior_reference_ids": "原manifest保留的参考或上游来源，包含旧版本；不是声称当前FBX逐一复制了所有这些素材。不得把旧参考的CC0许可覆盖到当前整条动作或整包。"
+  },
+  "license_files": [
+    {
+      "file": "Licenses/Quaternius_UniversalAnimationLibrary_README.txt",
+      "source_record": "downloads/Quaternius_UAL_Standard/README.txt",
+      "sha256": "ccd02718886b5a57f10f0a8911a38cfe10c36880e1d6dfa3445923fba32d2a72"
+    },
+    {
+      "file": "Licenses/Quaternius_UniversalAnimationLibrary2_README.txt",
+      "source_record": "downloads/Quaternius_UAL2_Standard/README.txt",
+      "sha256": "ccd02718886b5a57f10f0a8911a38cfe10c36880e1d6dfa3445923fba32d2a72"
+    },
+    {
+      "file": "Licenses/Traverser_Repository_MIT.txt",
+      "source_record": "references/traverser_repository_license.md",
+      "sha256": "1519fa0b3271d69fa1d45deba5a05809a7c3cba6531681bebaf15412459bdd6f"
+    },
+    {
+      "file": "Licenses/Traverser_Kinematica_Notice.txt",
+      "source_record": "references/traverser_kinematica_license.md",
+      "sha256": "43fc9d2127059d81c877f6446cc8ab32e0340c98a8c5279c7b1e7187dbbbdd4c"
+    },
+    {
+      "file": "Licenses/Unity_Companion_License_v1_4.txt",
+      "source_record": "references/unity_companion_license_v1_4.txt",
+      "sha256": "8dac0b9cba281546504a427398d46f3494c5085d42b85e2e7897223275fa049b"
+    }
+  ],
+  "project_source_inventory": [
+    {
+      "id": "EX01",
+      "original_project_path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Idles/HumanM@Idle01.fbx",
+      "license_record": "既有项目资源，沿用原资源许可；不自动认定为CC0"
+    },
+    {
+      "id": "EX02",
+      "original_project_path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_Forward.fbx",
+      "license_record": "既有项目资源，沿用原资源许可；不自动认定为CC0"
+    },
+    {
+      "id": "EX03",
+      "original_project_path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/HumanM@Run01_Forward.fbx",
+      "license_record": "既有项目资源，沿用原资源许可；不自动认定为CC0"
+    },
+    {
+      "id": "EX04",
+      "original_project_path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Jump01 - Begin.fbx",
+      "license_record": "既有项目资源，沿用原资源许可；不自动认定为CC0"
+    },
+    {
+      "id": "EX05",
+      "original_project_path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Fall01.fbx",
+      "license_record": "既有项目资源，沿用原资源许可；不自动认定为CC0"
+    },
+    {
+      "id": "EX06",
+      "original_project_path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Jump/HumanM@Jump01 - Land.fbx",
+      "license_record": "既有项目资源，沿用原资源许可；不自动认定为CC0"
+    },
+    {
+      "id": "EX07",
+      "original_project_path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/HumanM@CombatIdle01.fbx",
+      "license_record": "既有项目资源，沿用原资源许可；不自动认定为CC0"
+    },
+    {
+      "id": "EX08",
+      "original_project_path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/1H/HumanM@Attack1H01_R.fbx",
+      "license_record": "既有项目资源，沿用原资源许可；不自动认定为CC0"
+    },
+    {
+      "id": "EX09",
+      "original_project_path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/HumanM@CombatDamage01.fbx",
+      "license_record": "既有项目资源，沿用原资源许可；不自动认定为CC0"
+    },
+    {
+      "id": "EX10",
+      "original_project_path": "Assets/Kevin Iglesias/Human Animations/Animations/Male/Combat/HumanM@Death01.fbx",
+      "license_record": "既有项目资源，沿用原资源许可；不自动认定为CC0"
+    },
+    {
+      "id": "EX11",
+      "original_project_path": "Assets/_Staging/SwimmingAnimations/X Bot@Treading Water.fbx",
+      "license_record": "既有项目资源，沿用原资源许可；不自动认定为CC0"
+    },
+    {
+      "id": "EX12",
+      "original_project_path": "Assets/_Staging/SwimmingAnimations/X Bot@Swimming.fbx",
+      "license_record": "既有项目资源，沿用原资源许可；不自动认定为CC0"
+    },
+    {
+      "id": "EX13",
+      "original_project_path": "Assets/_Staging/Climb/X Bot@Climbing Up Wall.fbx",
+      "license_record": "既有项目资源，沿用原资源许可；不自动认定为CC0"
+    },
+    {
+      "id": "EX14",
+      "original_project_path": "Assets/_Staging/Climb/X Bot@Climbing To Top.fbx",
+      "license_record": "既有项目资源，沿用原资源许可；不自动认定为CC0"
+    }
+  ],
+  "reference_registry": {
+    "R001": {
+      "url": "https://quaternius.com/packs/universalanimationlibrary.html",
+      "license": "CC0 1.0",
+      "source_clips": [
+        "Sword_Idle",
+        "Sword_Attack"
+      ],
+      "role": "基础持剑姿态及选定上身剑弧，派生动作另有独立IK和时序",
+      "source_fps": 24,
+      "source_attack_key_frames": [
+        0,
+        6.5,
+        9.8,
+        13
+      ]
+    },
+    "R002": {
+      "source_action": "HERO_ATK_A1_LOCAL_v01",
+      "source_file": "validation/hero_local_core_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        21
+      ],
+      "source_fps": 30
+    },
+    "R003": {
+      "url": "https://quaternius.com/packs/universalanimationlibrary.html",
+      "license": "CC0 1.0",
+      "source_action": "HERO_COMBAT_IDLE_LOCAL_v01",
+      "source_file": "validation/hero_core_compact_family_selected.blend",
+      "borrowed_content": "empty left wrist local quaternion only; no new mesh or finger pose",
+      "frame": 0,
+      "fps": 30
+    },
+    "R004": {
+      "source_action": "HERO_ATK_A1_EMPTY_LEFT_WRIST_v01",
+      "source_file": "validation/hero_core_empty_left_wrist_v01.blend",
+      "role": "Original retained arm/wrist/finger trajectories and timing; body-weight change described separately.",
+      "source_frames": [
+        0,
+        21
+      ],
+      "source_fps": 30
+    },
+    "R005": {
+      "source_action": "HERO_ATK_A2_LOCAL_v01",
+      "source_file": "validation/hero_local_core_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        23
+      ],
+      "source_fps": 30
+    },
+    "R006": {
+      "source_action": "HERO_ATK_A2_EMPTY_LEFT_WRIST_v01",
+      "source_file": "validation/hero_core_empty_left_wrist_v01.blend",
+      "role": "Original retained arm/wrist/finger trajectories and timing; body-weight change described separately.",
+      "source_frames": [
+        0,
+        23
+      ],
+      "source_fps": 30
+    },
+    "R007": {
+      "source_action": "HERO_ATK_A3_LOCAL_v01",
+      "source_file": "validation/hero_local_core_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        28
+      ],
+      "source_fps": 30
+    },
+    "R008": {
+      "source_action": "HERO_ATK_A3_EMPTY_LEFT_WRIST_v01",
+      "source_file": "validation/hero_core_empty_left_wrist_v01.blend",
+      "role": "Existing chosen source; this new motion edit is separately described in method."
+    },
+    "R009": {
+      "source_action": "HERO_ATK_A3_NO_EXTRA_HOLD_v02",
+      "source_file": "validation/hero_core_tempo_v02.blend",
+      "role": "Original retained arm/wrist/finger trajectories and timing; body-weight change described separately.",
+      "source_frames": [
+        0,
+        24
+      ],
+      "source_fps": 30
+    },
+    "R010": {
+      "source_action": "HERO_ATK_HEAVY_LOCAL_v01",
+      "source_file": "validation/hero_local_core_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        44
+      ],
+      "source_fps": 30
+    },
+    "R011": {
+      "source_action": "HERO_ATK_HEAVY_EMPTY_LEFT_WRIST_v01",
+      "source_file": "validation/hero_core_empty_left_wrist_v01.blend",
+      "role": "Existing chosen source; this new motion edit is separately described in method."
+    },
+    "R012": {
+      "source_action": "HERO_ATK_CHARGE_START_DERIVED_v01",
+      "source_file": "validation/hero_derived_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        9
+      ],
+      "source_fps": 30
+    },
+    "R013": {
+      "action_name": "HERO_COMBAT_IDLE_LOCAL_v01",
+      "candidate_file": "validation/hero_local_core_review.blend",
+      "motion_id": "COMBAT_IDLE",
+      "source_frames": [
+        0.0,
+        50.0
+      ],
+      "source_fps": 30
+    },
+    "R014": {
+      "action_name": "HERO_ATK_HEAVY_LOCAL_v01",
+      "candidate_file": "validation/hero_local_core_review.blend",
+      "motion_id": "ATK_HEAVY",
+      "source_frames": [
+        0.0,
+        44.0
+      ],
+      "source_fps": 30
+    },
+    "R015": {
+      "source_action": "HERO_ATK_CHARGE_HOLD_DERIVED_v01",
+      "source_file": "validation/hero_derived_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        30
+      ],
+      "source_fps": 30
+    },
+    "R016": {
+      "source_action": "HERO_ATK_CHARGE_RELEASE_DERIVED_v01",
+      "source_file": "validation/hero_derived_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        27
+      ],
+      "source_fps": 30
+    },
+    "R017": {
+      "source_action": "HERO_ATK_CHARGE_CANCEL_DERIVED_v01",
+      "source_file": "validation/hero_derived_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        9
+      ],
+      "source_fps": 30
+    },
+    "R018": {
+      "source_action": "HERO_DODGE_F_LOCAL_v01",
+      "source_file": "validation/hero_local_core_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        17
+      ],
+      "source_fps": 30
+    },
+    "R019": {
+      "action_name": "HERO_DODGE_F_COMPACT_TRIAL_v06",
+      "source_file": "validation/hero_core_compact_family_selected.blend",
+      "borrowed_content": "All upper-body, sword, fingers, pelvis, opposite leg and timings retained; lead foot contact trajectory independently corrected",
+      "source_frames": [
+        0,
+        17
+      ],
+      "fps": 30
+    },
+    "R020": {
+      "source_action": "HERO_PERFECT_DODGE_F_LOCAL_v01",
+      "source_file": "validation/hero_local_core_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        9
+      ],
+      "source_fps": 30
+    },
+    "R021": {
+      "action_name": "HERO_PERFECT_DODGE_F_COMPACT_TRIAL_v06",
+      "source_file": "validation/hero_core_compact_family_selected.blend",
+      "borrowed_content": "All upper-body, sword, fingers, pelvis, opposite leg and timings retained; lead foot contact trajectory independently corrected",
+      "source_frames": [
+        0,
+        9
+      ],
+      "fps": 30
+    },
+    "R022": {
+      "source_action": "HERO_DODGE_B_LOCAL_v01",
+      "source_file": "validation/hero_local_core_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        17
+      ],
+      "source_fps": 30
+    },
+    "R023": {
+      "action_name": "HERO_DODGE_B_COMPACT_TRIAL_v06",
+      "source_file": "validation/hero_core_compact_family_selected.blend",
+      "borrowed_content": "All upper-body, sword, fingers, pelvis, opposite leg and timings retained; lead foot contact trajectory independently corrected",
+      "source_frames": [
+        0,
+        17
+      ],
+      "fps": 30
+    },
+    "R024": {
+      "source_action": "HERO_PERFECT_DODGE_B_LOCAL_v01",
+      "source_file": "validation/hero_local_core_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        9
+      ],
+      "source_fps": 30
+    },
+    "R025": {
+      "action_name": "HERO_PERFECT_DODGE_B_COMPACT_TRIAL_v06",
+      "source_file": "validation/hero_core_compact_family_selected.blend",
+      "borrowed_content": "All upper-body, sword, fingers, pelvis, opposite leg and timings retained; lead foot contact trajectory independently corrected",
+      "source_frames": [
+        0,
+        9
+      ],
+      "fps": 30
+    },
+    "R026": {
+      "source_action": "HERO_DODGE_L_LOCAL_v01",
+      "source_file": "validation/hero_local_core_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        17
+      ],
+      "source_fps": 30
+    },
+    "R027": {
+      "action_name": "HERO_DODGE_L_COMPACT_TRIAL_v06",
+      "source_file": "validation/hero_core_compact_family_selected.blend",
+      "borrowed_content": "All upper-body, sword, fingers, pelvis, opposite leg and timings retained; lead foot contact trajectory independently corrected",
+      "source_frames": [
+        0,
+        17
+      ],
+      "fps": 30
+    },
+    "R028": {
+      "source_action": "HERO_PERFECT_DODGE_L_LOCAL_v01",
+      "source_file": "validation/hero_local_core_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        9
+      ],
+      "source_fps": 30
+    },
+    "R029": {
+      "action_name": "HERO_PERFECT_DODGE_L_COMPACT_TRIAL_v06",
+      "source_file": "validation/hero_core_compact_family_selected.blend",
+      "borrowed_content": "All upper-body, sword, fingers, pelvis, opposite leg and timings retained; lead foot contact trajectory independently corrected",
+      "source_frames": [
+        0,
+        9
+      ],
+      "fps": 30
+    },
+    "R030": {
+      "source_action": "HERO_DODGE_R_LOCAL_v01",
+      "source_file": "validation/hero_local_core_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        17
+      ],
+      "source_fps": 30
+    },
+    "R031": {
+      "action_name": "HERO_DODGE_R_COMPACT_TRIAL_v06",
+      "source_file": "validation/hero_core_compact_family_selected.blend",
+      "borrowed_content": "All upper-body, sword, fingers, pelvis, opposite leg and timings retained; lead foot contact trajectory independently corrected",
+      "source_frames": [
+        0,
+        17
+      ],
+      "fps": 30
+    },
+    "R032": {
+      "source_action": "HERO_PERFECT_DODGE_R_LOCAL_v01",
+      "source_file": "validation/hero_local_core_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        9
+      ],
+      "source_fps": 30
+    },
+    "R033": {
+      "action_name": "HERO_PERFECT_DODGE_R_COMPACT_TRIAL_v06",
+      "source_file": "validation/hero_core_compact_family_selected.blend",
+      "borrowed_content": "All upper-body, sword, fingers, pelvis, opposite leg and timings retained; lead foot contact trajectory independently corrected",
+      "source_frames": [
+        0,
+        9
+      ],
+      "fps": 30
+    },
+    "R034": {
+      "source_action": "HERO_GUARD_ENTER_LOCAL_v01",
+      "source_file": "validation/hero_local_core_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        8
+      ],
+      "source_fps": 30
+    },
+    "R035": {
+      "source_action": "HERO_GUARD_HOLD_LOCAL_v01",
+      "source_file": "validation/hero_local_core_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        39
+      ],
+      "source_fps": 30
+    },
+    "R036": {
+      "source_action": "HERO_GUARD_IMPACT_LOCAL_v01",
+      "source_file": "validation/hero_local_core_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        14
+      ],
+      "source_fps": 30
+    },
+    "R037": {
+      "source_action": "HERO_GUARD_EXIT_LOCAL_v01",
+      "source_file": "validation/hero_local_core_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        9
+      ],
+      "source_fps": 30
+    },
+    "R038": {
+      "source_action": "HERO_GUARD_BREAK_REVISED_v02",
+      "source_file": "validation/hero_impact_repair_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        27
+      ],
+      "source_fps": 30
+    },
+    "R039": {
+      "action_name": "HERO_GUARD_BREAK_DERIVED_v01",
+      "candidate_file": "validation/hero_derived_review.blend",
+      "motion_id": "GUARD_BREAK",
+      "source_frames": [
+        0.0,
+        26.0
+      ],
+      "source_fps": 30
+    },
+    "R040": {
+      "action_name": "HERO_GUARD_HOLD_LOCAL_v01",
+      "candidate_file": "validation/hero_local_core_review.blend",
+      "motion_id": "GUARD_HOLD",
+      "source_frames": [
+        0.0,
+        39.0
+      ],
+      "source_fps": 30
+    },
+    "R041": {
+      "source_action": "HERO_ATK_BOOST_DODGE_LOCAL_v01",
+      "source_file": "validation/hero_local_core_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        27
+      ],
+      "source_fps": 30
+    },
+    "R042": {
+      "source_action": "HERO_ATK_BOOST_DODGE_EMPTY_LEFT_WRIST_v01",
+      "source_file": "validation/hero_core_empty_left_wrist_v01.blend",
+      "role": "Original retained arm/wrist/finger trajectories and timing; body-weight change described separately.",
+      "source_frames": [
+        0,
+        27
+      ],
+      "source_fps": 30
+    },
+    "R043": {
+      "source_action": "HERO_ATK_BOOST_GUARD_LOCAL_v01",
+      "source_file": "validation/hero_local_core_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        32
+      ],
+      "source_fps": 30
+    },
+    "R044": {
+      "source_action": "HERO_ATK_BOOST_GUARD_EMPTY_LEFT_WRIST_v01",
+      "source_file": "validation/hero_core_empty_left_wrist_v01.blend",
+      "role": "Original retained arm/wrist/finger trajectories and timing; body-weight change described separately.",
+      "source_frames": [
+        0,
+        32
+      ],
+      "source_fps": 30
+    },
+    "R045": {
+      "license": "既有项目许可；不是CC0公开重分发文件",
+      "project_source_id": "EX01",
+      "source_action": "Rig|HumanM@Idle01|Base Layer",
+      "source_seconds": [
+        0,
+        2.7
+      ]
+    },
+    "R046": {
+      "license": "既有项目许可；不是CC0公开重分发文件",
+      "project_source_id": "EX02",
+      "source_action": "Rig|HumanM@Walk01_Forward|Base Layer",
+      "source_seconds": [
+        0,
+        0.8
+      ]
+    },
+    "R047": {
+      "license": "既有项目许可；不是CC0公开重分发文件",
+      "project_source_id": "EX03",
+      "source_action": "Rig|HumanM@Run01_Forward|Base Layer",
+      "source_seconds": [
+        0,
+        0.6
+      ]
+    },
+    "R048": {
+      "action_name": "HERO_LOC_IDLE_PROJECT_v01",
+      "candidate_file": "validation/project_basic_candidates/LOC_IDLE.blend",
+      "motion_id": "LOC_IDLE",
+      "source_frames": [
+        0.0,
+        81.0
+      ],
+      "source_fps": 30
+    },
+    "R049": {
+      "action_name": "HERO_LOC_WALK_PROJECT_v01",
+      "candidate_file": "validation/project_basic_candidates/LOC_WALK.blend",
+      "motion_id": "LOC_WALK",
+      "source_frames": [
+        0.0,
+        24.0
+      ],
+      "source_fps": 30
+    },
+    "R050": {
+      "action_name": "HERO_LOC_RUN_PROJECT_v01",
+      "candidate_file": "validation/project_basic_candidates/LOC_RUN.blend",
+      "motion_id": "LOC_RUN",
+      "source_frames": [
+        0.0,
+        18.0
+      ],
+      "source_fps": 30
+    },
+    "R051": {
+      "action_name": "HERO_LOC_CROUCH_IDLE_FREE_v01",
+      "candidate_file": "validation/free_basic_candidates/LOC_CROUCH_IDLE.blend",
+      "motion_id": "LOC_CROUCH_IDLE",
+      "source_frames": [
+        0.0,
+        88.0
+      ],
+      "source_fps": 30
+    },
+    "R052": {
+      "url": "https://quaternius.com/packs/universalanimationlibrary.html",
+      "license": "CC0 1.0",
+      "source_name": "Crouch_Idle_Loop",
+      "borrowed_content": "源动作完整姿态时序，迁移到当前主角；未凭名称判定合格",
+      "source_seconds": [
+        0,
+        2.933333396911621
+      ]
+    },
+    "R053": {
+      "action_name": "HERO_AIR_TAKEOFF_PROJECT_v01",
+      "candidate_file": "validation/project_basic_candidates/AIR_TAKEOFF.blend",
+      "motion_id": "AIR_TAKEOFF",
+      "source_frames": [
+        0.0,
+        20.0
+      ],
+      "source_fps": 30
+    },
+    "R054": {
+      "source_action": "HERO_AIR_TAKEOFF_REVISED_v01",
+      "source_file": "validation/hero_repair_review.blend",
+      "role": "保留原起跳后半段与末姿，仅修正初始蓄势和脚部接触",
+      "source_frames": [
+        0,
+        20
+      ],
+      "source_fps": 30
+    },
+    "R055": {
+      "license": "既有项目许可；不是CC0公开重分发文件",
+      "project_source_id": "EX05",
+      "source_action": "Rig|HumanM@Fall01|Base Layer",
+      "source_seconds": [
+        0,
+        1.0
+      ]
+    },
+    "R056": {
+      "action_name": "HERO_AIR_LAND_LIGHT_PROJECT_v01",
+      "candidate_file": "validation/project_basic_candidates/AIR_LAND_LIGHT.blend",
+      "motion_id": "AIR_LAND_LIGHT",
+      "source_frames": [
+        0.0,
+        20.0
+      ],
+      "source_fps": 30
+    },
+    "R057": {
+      "url": "https://quaternius.com/packs/universalanimationlibrary2.html",
+      "license": "CC0 1.0",
+      "source_name": "NinjaJump_Land",
+      "borrowed_content": "源动作完整姿态时序，迁移到当前主角；未凭名称判定合格",
+      "source_seconds": [
+        0,
+        1.2666666507720947
+      ]
+    },
+    "R058": {
+      "license": "既有项目许可；不是CC0公开重分发文件",
+      "project_source_id": "EX11",
+      "source_action": "Armature|mixamo.com|Layer0",
+      "source_seconds": [
+        0,
+        3.0
+      ]
+    },
+    "R059": {
+      "action_name": "HERO_WATER_SWIM_PROJECT_v01",
+      "candidate_file": "validation/project_basic_candidates/WATER_SWIM.blend",
+      "motion_id": "WATER_SWIM",
+      "source_frames": [
+        0.0,
+        136.0
+      ],
+      "source_fps": 30
+    },
+    "R060": {
+      "action_name": "HERO_WATER_SWIM_FAST_DERIVED_v01",
+      "candidate_file": "validation/hero_derived_review.blend",
+      "motion_id": "WATER_SWIM_FAST",
+      "source_frames": [
+        0.0,
+        91.0
+      ],
+      "source_fps": 30
+    },
+    "R061": {
+      "action_name": "HERO_WATER_TREAD_PROJECT_v01",
+      "candidate_file": "validation/project_basic_candidates/WATER_TREAD.blend",
+      "motion_id": "WATER_TREAD",
+      "source_frames": [
+        0.0,
+        90.0
+      ],
+      "source_fps": 30
+    },
+    "R062": {
+      "action_name": "HERO_CLIMB_UP_PROJECT_v01",
+      "candidate_file": "validation/project_basic_candidates/CLIMB_UP.blend",
+      "motion_id": "CLIMB_UP",
+      "source_frames": [
+        0.0,
+        60.0
+      ],
+      "source_fps": 30
+    },
+    "R063": {
+      "action_name": "HERO_AIR_FALL_PROJECT_v01",
+      "candidate_file": "validation/project_basic_candidates/AIR_FALL.blend",
+      "motion_id": "AIR_FALL",
+      "source_frames": [
+        0.0,
+        30.0
+      ],
+      "source_fps": 30
+    },
+    "R064": {
+      "url": "https://quaternius.com/packs/universalanimationlibrary.html",
+      "license": "CC0 1.0",
+      "borrowed_content": "各自解剖左右手的局部手指握姿；不镜像全身",
+      "source_fps": 24
+    },
+    "R065": {
+      "action_name": "HERO_CLIMB_TOP_PROJECT_v01",
+      "candidate_file": "validation/project_basic_candidates/CLIMB_TOP.blend",
+      "motion_id": "CLIMB_TOP",
+      "source_frames": [
+        0.0,
+        120.0
+      ],
+      "source_fps": 30
+    },
+    "R066": {
+      "action_name": "HERO_LOC_WALK_PROJECT_v01",
+      "candidate_file": "validation/project_basic_candidates/LOC_WALK.blend",
+      "motion_id": "LOC_WALK",
+      "borrowed_content": "步行源骨盆的周期姿态；四肢接触轨迹在本试版独立编写",
+      "source_frames": [
+        0.0,
+        24.0
+      ],
+      "source_fps": 30
+    },
+    "R067": {
+      "action_name": "HERO_CLIMB_UP_PROJECT_v01",
+      "candidate_file": "validation/project_basic_candidates/CLIMB_UP.blend",
+      "motion_id": "CLIMB_UP",
+      "borrowed_content": "上爬源支撑姿态的18%混合，独立矮身和前倾适配",
+      "source_frames": [
+        5.0,
+        5.0
+      ],
+      "source_fps": 30
+    },
+    "R068": {
+      "action_name": "HERO_LOC_IDLE_PROJECT_v01",
+      "candidate_file": "validation/project_basic_candidates/LOC_IDLE.blend",
+      "motion_id": "LOC_IDLE",
+      "borrowed_content": "脊柱、脚踝及头颈朝向基准；动作本身独立编写",
+      "source_frames": [
+        0,
+        0
+      ],
+      "source_fps": 30
+    },
+    "R069": {
+      "action_name": "HERO_LEDGE_PULLUP_TRAVERSAL_v02",
+      "candidate_file": "validation/hero_traversal_review.blend",
+      "motion_id": "LEDGE_PULLUP",
+      "source_frames": [
+        0.0,
+        129.0
+      ],
+      "source_fps": 30
+    },
+    "R070": {
+      "source_url": "https://github.com/AitorSimona/Traverser/blob/master/TraverserDemoProject/Assets/Samples/Traverser/Demo/3rdParty/Animations/KinematicaBased/Climbing/PullUp.fbx",
+      "license": "Unity Companion License; Unity-dependent project use",
+      "license_file": "references/traverser_kinematica_license.md",
+      "source_file": "downloads/Traverser_Kinematica/PullUp.fbx",
+      "borrowed_content": "双臂拉起、右腿先上台、左腿跟进和站稳的真实源时序",
+      "source_frames_used": [
+        7.3636363636,
+        71
+      ],
+      "source_fps": 24
+    },
+    "R071": {
+      "action_name": "HERO_LOC_IDLE_PROJECT_v01",
+      "candidate_file": "validation/project_basic_candidates/LOC_IDLE.blend",
+      "motion_id": "LOC_IDLE",
+      "borrowed_content": "起始站姿和末端站姿",
+      "source_frames": [
+        0,
+        0
+      ],
+      "source_fps": 30
+    },
+    "R072": {
+      "source_action": "HERO_COMBAT_IDLE_LOCAL_v01",
+      "source_file": "validation/hero_local_core_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        50
+      ],
+      "source_fps": 30
+    },
+    "R073": {
+      "source_action": "HERO_COMBAT_MOVE_F_DERIVED_v01",
+      "source_file": "validation/hero_derived_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        30
+      ],
+      "source_fps": 30
+    },
+    "R074": {
+      "source_action": "HERO_COMBAT_MOVE_B_DERIVED_v01",
+      "source_file": "validation/hero_derived_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        30
+      ],
+      "source_fps": 30
+    },
+    "R075": {
+      "source_action": "HERO_COMBAT_MOVE_L_DERIVED_v01",
+      "source_file": "validation/hero_derived_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        30
+      ],
+      "source_fps": 30
+    },
+    "R076": {
+      "source_action": "HERO_COMBAT_MOVE_R_DERIVED_v01",
+      "source_file": "validation/hero_derived_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        30
+      ],
+      "source_fps": 30
+    },
+    "R077": {
+      "action_name": "HERO_EQUIP_DRAW_GRIP_CLEARANCE_v10",
+      "source_file": "validation/hero_equip_finger_timing_v10.blend",
+      "borrowed_content": "lower-body grasp preparation posture and closed right fingers; wrist track independently changed",
+      "frame_used": 15,
+      "fps": 30
+    },
+    "R078": {
+      "action_name": "HERO_LOC_IDLE_PROJECT_v01",
+      "motion_id": "LOC_IDLE",
+      "borrowed_content": "natural unarmed entry/exit",
+      "frame_used": 0,
+      "fps": 30
+    },
+    "R079": {
+      "action_name": "HERO_COMBAT_IDLE_COMPACT_TRIAL_v06",
+      "motion_id": "COMBAT_IDLE",
+      "borrowed_content": "matching equipped ready endpoint",
+      "frame_used": 0,
+      "fps": 30
+    },
+    "R080": {
+      "url": "https://musoshindenryu.com/about.php",
+      "borrowed_content": "left hand counterpull and coordination of sheath with tip; no video timecode, no copied pose or motion file",
+      "section": "Theory of Iaido, points1 and4"
+    },
+    "R081": {
+      "url": "https://quaternius.com/packs/universalanimationlibrary.html",
+      "license": "CC0 1.0",
+      "source": "Driving_Loop",
+      "borrowed_content": "anatomical left finger local rotations,75%strength, for sheath grip; whole-body motion independently authored",
+      "frame": 0.0,
+      "fps": 24
+    },
+    "R082": {
+      "url": "https://quaternius.com/packs/universalanimationlibrary.html",
+      "license": "CC0 1.0",
+      "source_action": "HERO_COMBAT_IDLE_LOCAL_v01",
+      "source_file": "validation/hero_core_compact_family_selected.blend",
+      "borrowed_content": "empty left wrist local quaternion at equipped Ready boundary; sheath support uses existing authored orientation",
+      "frame": 0,
+      "fps": 30
+    },
+    "R083": {
+      "source_action": "HERO_HIT_LIGHT_F_REVISED_v01",
+      "source_file": "validation/hero_front_hit_repair_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        30
+      ],
+      "source_fps": 30
+    },
+    "R084": {
+      "action_name": "HERO_HIT_LIGHT_F_PROJECT_v01",
+      "candidate_file": "validation/project_basic_candidates/HIT_LIGHT_F.blend",
+      "motion_id": "HIT_LIGHT_F",
+      "source_frames": [
+        0.0,
+        30.0
+      ],
+      "source_fps": 30
+    },
+    "R085": {
+      "source_action": "HERO_HIT_LIGHT_B_DERIVED_v01",
+      "source_file": "validation/hero_derived_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        14
+      ],
+      "source_fps": 30
+    },
+    "R086": {
+      "source_action": "HERO_HIT_LIGHT_L_DERIVED_v01",
+      "source_file": "validation/hero_derived_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        14
+      ],
+      "source_fps": 30
+    },
+    "R087": {
+      "source_action": "HERO_HIT_LIGHT_R_DERIVED_v01",
+      "source_file": "validation/hero_derived_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        14
+      ],
+      "source_fps": 30
+    },
+    "R088": {
+      "source_action": "HERO_HIT_HEAVY_REVISED_v02",
+      "source_file": "validation/hero_impact_repair_review.blend",
+      "role": "原候选轨迹及时序；具体映射/修正方法另列",
+      "source_frames": [
+        0,
+        32
+      ],
+      "source_fps": 30
+    },
+    "R089": {
+      "action_name": "HERO_HIT_HEAVY_DERIVED_v01",
+      "candidate_file": "validation/hero_derived_review.blend",
+      "motion_id": "HIT_HEAVY",
+      "source_frames": [
+        0.0,
+        28.0
+      ],
+      "source_fps": 30
+    },
+    "R090": {
+      "url": "https://quaternius.com/packs/universalanimationlibrary.html",
+      "license": "CC0 1.0",
+      "source_name": "Death01",
+      "borrowed_content": "源动作完整姿态时序，迁移到当前主角；未凭名称判定合格",
+      "source_seconds": [
+        0,
+        2.4000000953674316
+      ]
+    },
+    "R091": {
+      "action_name": "HERO_HIT_KNOCKDOWN_FREE_v01",
+      "candidate_file": "validation/free_basic_candidates/HIT_KNOCKDOWN.blend",
+      "motion_id": "HIT_KNOCKDOWN",
+      "source_frames": [
+        0.0,
+        72.0
+      ],
+      "source_fps": 30
+    },
+    "R092": {
+      "action_name": "HERO_HIT_GETUP_FREE_v01",
+      "candidate_file": "validation/free_basic_candidates/HIT_GETUP.blend",
+      "motion_id": "HIT_GETUP",
+      "source_frames": [
+        0.0,
+        46.0
+      ],
+      "source_fps": 30
+    },
+    "R093": {
+      "license": "既有项目许可；不是CC0公开重分发文件",
+      "project_source_id": "EX10",
+      "source_action": "Rig|HumanM@Death01|Base Layer",
+      "source_seconds": [
+        0,
+        0.7333333587646484
+      ]
+    },
+    "R094": {
+      "action_name": "HERO_DEATH_GROUND_PROJECT_v01",
+      "candidate_file": "validation/project_basic_candidates/DEATH_GROUND.blend",
+      "motion_id": "DEATH_GROUND",
+      "source_frames": [
+        0.0,
+        44.0
+      ],
+      "source_fps": 30
+    },
+    "R095": {
+      "action_name": "HERO_DEATH_WATER_TRAVERSAL_v02",
+      "candidate_file": "validation/hero_traversal_review.blend",
+      "motion_id": "DEATH_WATER",
+      "source_frames": [
+        0.0,
+        42.0
+      ],
+      "source_fps": 30
+    },
+    "R096": {
+      "action_name": "HERO_DEATH_AIR_TRAVERSAL_v02",
+      "candidate_file": "validation/hero_traversal_review.blend",
+      "motion_id": "DEATH_AIR",
+      "source_frames": [
+        0.0,
+        14.0
+      ],
+      "source_fps": 30
+    },
+    "R097": {
+      "url": "https://quaternius.com/packs/universalanimationlibrary.html",
+      "license": "CC0 1.0",
+      "borrowed_content": "右手各指骨闭握的局部姿态",
+      "source_fps": 24
+    },
+    "R098": {
+      "url": "https://quaternius.com/packs/universalanimationlibrary.html",
+      "license": "CC0 1.0",
+      "source_name": "Interact",
+      "borrowed_content": "源动作完整姿态时序，迁移到当前主角；未凭名称判定合格",
+      "source_seconds": [
+        0,
+        2.0
+      ]
+    },
+    "R099": {
+      "url": "https://quaternius.com/packs/universalanimationlibrary2.html",
+      "license": "CC0 1.0",
+      "source_name": "Chest_Open",
+      "borrowed_content": "源动作完整姿态时序，迁移到当前主角；未凭名称判定合格",
+      "source_seconds": [
+        0,
+        1.3666666348775227
+      ]
+    },
+    "R100": {
+      "url": "https://quaternius.com/packs/universalanimationlibrary2.html",
+      "license": "CC0 1.0",
+      "source_name": "Consume",
+      "borrowed_content": "源动作完整姿态时序，迁移到当前主角；未凭名称判定合格",
+      "source_seconds": [
+        0,
+        1.3333333333333333
+      ]
+    },
+    "R101": {
+      "url": "https://quaternius.com/packs/universalanimationlibrary.html",
+      "license": "CC0 1.0",
+      "source_name": "Sitting_Enter",
+      "borrowed_content": "源动作完整姿态时序，迁移到当前主角；未凭名称判定合格",
+      "source_seconds": [
+        0,
+        1.2999999523162842
+      ]
+    },
+    "R102": {
+      "action_name": "HERO_INTERACT_REST_ENTER_JUNCTION_v02",
+      "candidate_file": "validation/hero_rest_family_junction_v02.blend",
+      "role": "v02衔接修复及原CC0坐姿保持；v03独立修正手臂路线、手掌朝向与放松手指",
+      "source_frames": [
+        0,
+        48
+      ],
+      "source_fps": 30
+    },
+    "R103": {
+      "url": "https://quaternius.com/packs/universalanimationlibrary.html",
+      "license": "CC0 1.0",
+      "source_name": "Sitting_Idle_Loop",
+      "borrowed_content": "源动作完整姿态时序，迁移到当前主角；未凭名称判定合格",
+      "source_seconds": [
+        0,
+        1.6666666666666667
+      ]
+    },
+    "R104": {
+      "action_name": "HERO_INTERACT_REST_HOLD_FREE_v01",
+      "candidate_file": "validation/hero_rest_family_junction_v02.blend",
+      "role": "v02衔接修复及原CC0坐姿保持；v03独立修正手臂路线、手掌朝向与放松手指",
+      "source_frames": [
+        0,
+        50
+      ],
+      "source_fps": 30
+    },
+    "R105": {
+      "url": "https://quaternius.com/packs/universalanimationlibrary.html",
+      "license": "CC0 1.0",
+      "source_name": "Sitting_Exit",
+      "borrowed_content": "源动作完整姿态时序，迁移到当前主角；未凭名称判定合格",
+      "source_seconds": [
+        0,
+        1.0333333015441895
+      ]
+    },
+    "R106": {
+      "action_name": "HERO_INTERACT_REST_EXIT_JUNCTION_v02",
+      "candidate_file": "validation/hero_rest_family_junction_v02.blend",
+      "role": "v02衔接修复及原CC0坐姿保持；v03独立修正手臂路线、手掌朝向与放松手指",
+      "source_frames": [
+        0,
+        43
+      ],
+      "source_fps": 30
+    },
+    "R107": {
+      "url": "https://quaternius.com/packs/universalanimationlibrary.html",
+      "license": "CC0 1.0",
+      "source_name": "Crouch_Fwd_Loop",
+      "borrowed_content": "源动作完整姿态时序，迁移到当前主角；未凭名称判定合格",
+      "source_seconds": [
+        0,
+        2.0
+      ]
+    },
+    "R108": {
+      "action_name": "HERO_DEATH_WATER_HOLD_TRAVERSAL_v02",
+      "candidate_file": "validation/hero_traversal_review.blend",
+      "motion_id": "DEATH_WATER_HOLD",
+      "source_frames": [
+        0.0,
+        30.0
+      ],
+      "source_fps": 30
+    }
+  },
+  "motions": [
+    {
+      "id": "ATK_A1",
+      "name_zh": "普攻第一段 右上到左下斜斩",
+      "current_action": "HERO_NAT_ATK_A1",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_ATK_A1",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_ATK_A1_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R001",
+        "R002",
+        "R003",
+        "R004"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Local authored choreography on actual Tripo idle/rig; not a new website generation",
+        "source_base_action": "HERO_TRIPO_COMBAT_IDLE_LoopRepair_v01"
+      }
+    },
+    {
+      "id": "ATK_A2",
+      "name_zh": "普攻第二段 左下到右上回斩",
+      "current_action": "HERO_NAT_ATK_A2",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_ATK_A2",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_ATK_A2_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R001",
+        "R005",
+        "R003",
+        "R006"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Local authored choreography on actual Tripo idle/rig; not a new website generation",
+        "source_base_action": "HERO_TRIPO_COMBAT_IDLE_LoopRepair_v01"
+      }
+    },
+    {
+      "id": "ATK_A3",
+      "name_zh": "普攻第三段 正前下劈收势",
+      "current_action": "HERO_NAT_ATK_A3",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_ATK_A3",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_ATK_A3_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R001",
+        "R007",
+        "R003",
+        "R008",
+        "R009"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Local authored choreography on actual Tripo idle/rig; not a new website generation",
+        "source_base_action": "HERO_TRIPO_COMBAT_IDLE_LoopRepair_v01"
+      }
+    },
+    {
+      "id": "ATK_HEAVY",
+      "name_zh": "剑重击 蓄力后强力下斩",
+      "current_action": "HERO_NAT_ATK_HEAVY",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_ATK_HEAVY",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_ATK_HEAVY_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R001",
+        "R010",
+        "R003",
+        "R011"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Local authored choreography on actual Tripo idle/rig; not a new website generation",
+        "source_base_action": "HERO_TRIPO_COMBAT_IDLE_LoopRepair_v01"
+      }
+    },
+    {
+      "id": "ATK_CHARGE_START",
+      "name_zh": "可变蓄力 进入",
+      "current_action": "HERO_INIT_ATK_CHARGE_START",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_ATK_CHARGE_START",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_ATK_CHARGE_START_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R012",
+        "R013",
+        "R014",
+        "R003"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Authored extension of current Tripo sword choreography; existing Ready/charge/guard poses"
+      }
+    },
+    {
+      "id": "ATK_CHARGE_HOLD",
+      "name_zh": "可变蓄力 保持",
+      "current_action": "HERO_INIT_ATK_CHARGE_HOLD",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_ATK_CHARGE_HOLD",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_ATK_CHARGE_HOLD_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R015",
+        "R014",
+        "R003"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Authored extension of current Tripo sword choreography; existing Ready/charge/guard poses"
+      }
+    },
+    {
+      "id": "ATK_CHARGE_RELEASE",
+      "name_zh": "可变蓄力 释放",
+      "current_action": "HERO_INIT_ATK_CHARGE_RELEASE",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_ATK_CHARGE_RELEASE",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_ATK_CHARGE_RELEASE_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R016",
+        "R014",
+        "R003"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Authored extension of current Tripo sword choreography; existing Ready/charge/guard poses"
+      }
+    },
+    {
+      "id": "ATK_CHARGE_CANCEL",
+      "name_zh": "可变蓄力 取消",
+      "current_action": "HERO_INIT_ATK_CHARGE_CANCEL",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_ATK_CHARGE_CANCEL",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_ATK_CHARGE_CANCEL_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R017",
+        "R014",
+        "R013",
+        "R003"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Authored extension of current Tripo sword choreography; existing Ready/charge/guard poses"
+      }
+    },
+    {
+      "id": "DODGE_F",
+      "name_zh": "普通闪避 向前",
+      "current_action": "HERO_INIT_DODGE_F",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_DODGE_F",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_DODGE_F_ChoreoRepair_v01_DirectionTrial",
+        "source_kind": "existing_pre_pause_direction_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R001",
+        "R018",
+        "R019",
+        "R003"
+      ]
+    },
+    {
+      "id": "PERFECT_DODGE_F",
+      "name_zh": "极限闪避成功 向前",
+      "current_action": "HERO_INIT_PERFECT_DODGE_F",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_PERFECT_DODGE_F",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_PERFECT_DODGE_F_ChoreoRepair_v01_DirectionTrial",
+        "source_kind": "existing_pre_pause_direction_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R001",
+        "R020",
+        "R021",
+        "R003"
+      ]
+    },
+    {
+      "id": "DODGE_B",
+      "name_zh": "普通闪避 向后",
+      "current_action": "HERO_INIT_DODGE_B",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_DODGE_B",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_DODGE_B_ChoreoRepair_v01_DirectionTrial",
+        "source_kind": "existing_pre_pause_direction_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R001",
+        "R022",
+        "R023",
+        "R003"
+      ]
+    },
+    {
+      "id": "PERFECT_DODGE_B",
+      "name_zh": "极限闪避成功 向后",
+      "current_action": "HERO_INIT_PERFECT_DODGE_B",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_PERFECT_DODGE_B",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_PERFECT_DODGE_B_ChoreoRepair_v01_DirectionTrial",
+        "source_kind": "existing_pre_pause_direction_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R001",
+        "R024",
+        "R025",
+        "R003"
+      ]
+    },
+    {
+      "id": "DODGE_L",
+      "name_zh": "普通闪避 向左",
+      "current_action": "HERO_INIT_DODGE_L",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_DODGE_L",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_DODGE_L_ChoreoRepair_v01_DirectionTrial",
+        "source_kind": "existing_pre_pause_direction_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R001",
+        "R026",
+        "R027",
+        "R003"
+      ]
+    },
+    {
+      "id": "PERFECT_DODGE_L",
+      "name_zh": "极限闪避成功 向左",
+      "current_action": "HERO_INIT_PERFECT_DODGE_L",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_PERFECT_DODGE_L",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_PERFECT_DODGE_L_ChoreoRepair_v01_DirectionTrial",
+        "source_kind": "existing_pre_pause_direction_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R001",
+        "R028",
+        "R029",
+        "R003"
+      ]
+    },
+    {
+      "id": "DODGE_R",
+      "name_zh": "普通闪避 向右",
+      "current_action": "HERO_INIT_DODGE_R",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_DODGE_R",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_DODGE_R_ChoreoRepair_v01_DirectionTrial",
+        "source_kind": "existing_pre_pause_direction_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R001",
+        "R030",
+        "R031",
+        "R003"
+      ]
+    },
+    {
+      "id": "PERFECT_DODGE_R",
+      "name_zh": "极限闪避成功 向右",
+      "current_action": "HERO_INIT_PERFECT_DODGE_R",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_PERFECT_DODGE_R",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_PERFECT_DODGE_R_ChoreoRepair_v01_DirectionTrial",
+        "source_kind": "existing_pre_pause_direction_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R001",
+        "R032",
+        "R033",
+        "R003"
+      ]
+    },
+    {
+      "id": "GUARD_ENTER",
+      "name_zh": "格挡 举剑进入",
+      "current_action": "HERO_INIT_GUARD_ENTER",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_GUARD_ENTER",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_GUARD_ENTER_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R001",
+        "R034",
+        "R003"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Local authored choreography on actual Tripo idle/rig; not a new website generation",
+        "source_base_action": "HERO_TRIPO_COMBAT_IDLE_LoopRepair_v01"
+      }
+    },
+    {
+      "id": "GUARD_HOLD",
+      "name_zh": "格挡 持续保持",
+      "current_action": "HERO_INIT_GUARD_HOLD",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_GUARD_HOLD",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_GUARD_HOLD_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R001",
+        "R035",
+        "R003"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Local authored choreography on actual Tripo idle/rig; not a new website generation",
+        "source_base_action": "HERO_TRIPO_COMBAT_IDLE_LoopRepair_v01"
+      }
+    },
+    {
+      "id": "GUARD_IMPACT",
+      "name_zh": "格挡成功 承受冲击",
+      "current_action": "HERO_NAT_GUARD_IMPACT",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_GUARD_IMPACT",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_GUARD_IMPACT_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R001",
+        "R036",
+        "R003"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Local authored choreography on actual Tripo idle/rig; not a new website generation",
+        "source_base_action": "HERO_TRIPO_COMBAT_IDLE_LoopRepair_v01"
+      }
+    },
+    {
+      "id": "GUARD_EXIT",
+      "name_zh": "格挡 放下防御",
+      "current_action": "HERO_INIT_GUARD_EXIT",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_GUARD_EXIT",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_GUARD_EXIT_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R001",
+        "R037",
+        "R003"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Local authored choreography on actual Tripo idle/rig; not a new website generation",
+        "source_base_action": "HERO_TRIPO_COMBAT_IDLE_LoopRepair_v01"
+      }
+    },
+    {
+      "id": "GUARD_BREAK",
+      "name_zh": "格挡崩解 失去平衡",
+      "current_action": "HERO_INIT_GUARD_BREAK",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_GUARD_BREAK",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_GUARD_BREAK_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R038",
+        "R039",
+        "R040",
+        "R013",
+        "R003"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Authored extension of current Tripo sword choreography; existing Ready/charge/guard poses"
+      }
+    },
+    {
+      "id": "ATK_BOOST_DODGE",
+      "name_zh": "极限闪避强化普攻 低位突进上挑",
+      "current_action": "HERO_NAT_ATK_BOOST_DODGE",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_ATK_BOOST_DODGE",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_ATK_BOOST_DODGE_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R001",
+        "R041",
+        "R003",
+        "R042"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Local authored front-facing midpoint repair on existing actual Tripo-rig choreography; no new website generation",
+        "source_base_action": "HERO_TRIPO_COMBAT_IDLE_LoopRepair_v01"
+      }
+    },
+    {
+      "id": "ATK_BOOST_GUARD",
+      "name_zh": "格挡强化普攻 拨剑后斜向重斩",
+      "current_action": "HERO_NAT_ATK_BOOST_GUARD",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_ATK_BOOST_GUARD",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_ATK_BOOST_GUARD_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R001",
+        "R043",
+        "R003",
+        "R044"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Local authored choreography on actual Tripo idle/rig; not a new website generation",
+        "source_base_action": "HERO_TRIPO_COMBAT_IDLE_LoopRepair_v01"
+      }
+    },
+    {
+      "id": "LOC_IDLE",
+      "name_zh": "探索待机",
+      "current_action": "HERO_NAT_LOC_IDLE",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LOC_IDLE",
+        "file": "deliverables/basic_motion_review/hero_basic_motion.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_LOC_IDLE_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R045"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Reuse existing project/CC0 basic body and hands with preview root/floor alignment",
+        "source_action": "HERO_LOC_IDLE_PROJECT_v01",
+        "source_file": "validation/project_basic_candidates/LOC_IDLE.blend"
+      }
+    },
+    {
+      "id": "LOC_WALK",
+      "name_zh": "探索向前行走",
+      "current_action": "HERO_INIT_LOC_WALK",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LOC_WALK",
+        "file": "deliverables/basic_motion_review/hero_basic_motion.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_LOC_WALK_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R046"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Reuse existing project/CC0 basic body and hands with preview root/floor alignment",
+        "source_action": "HERO_LOC_WALK_PROJECT_v01",
+        "source_file": "validation/project_basic_candidates/LOC_WALK.blend"
+      }
+    },
+    {
+      "id": "LOC_RUN",
+      "name_zh": "探索向前跑步",
+      "current_action": "HERO_INIT_LOC_RUN",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LOC_RUN",
+        "file": "deliverables/basic_motion_review/hero_basic_motion.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_LOC_RUN_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R047"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Reuse existing project/CC0 basic body and hands with preview root/floor alignment",
+        "source_action": "HERO_LOC_RUN_PROJECT_v01",
+        "source_file": "validation/project_basic_candidates/LOC_RUN.blend"
+      }
+    },
+    {
+      "id": "LOC_START",
+      "name_zh": "从站立迈步",
+      "current_action": "HERO_NAT_LOC_START",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LOC_START",
+        "file": "deliverables/basic_motion_review/hero_basic_motion.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_LOC_START_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R048",
+        "R049"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Reuse existing project/CC0 basic body and hands with preview root/floor alignment",
+        "source_action": "HERO_LOC_START_DERIVED_v01",
+        "source_file": "validation/hero_derived_review.blend"
+      }
+    },
+    {
+      "id": "LOC_STOP",
+      "name_zh": "行走制动停步",
+      "current_action": "HERO_NAT_LOC_STOP",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LOC_STOP",
+        "file": "deliverables/basic_motion_review/hero_basic_motion.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_LOC_STOP_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R049",
+        "R048"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Reuse existing project/CC0 basic body and hands with preview root/floor alignment",
+        "source_action": "HERO_LOC_STOP_DERIVED_v01",
+        "source_file": "validation/hero_derived_review.blend"
+      }
+    },
+    {
+      "id": "LOC_SPRINT",
+      "name_zh": "加速疾跑",
+      "current_action": "HERO_INIT_LOC_SPRINT",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LOC_SPRINT",
+        "file": "deliverables/basic_motion_review/hero_basic_motion.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_LOC_SPRINT_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R050"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Reuse existing project/CC0 basic body and hands with preview root/floor alignment",
+        "source_action": "HERO_LOC_SPRINT_REVISED_v01",
+        "source_file": "validation/hero_repair_review.blend"
+      }
+    },
+    {
+      "id": "LOC_RUN_STOP",
+      "name_zh": "跑步快速制动",
+      "current_action": "HERO_NAT_LOC_RUN_STOP",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LOC_RUN_STOP",
+        "file": "deliverables/basic_motion_review/hero_basic_motion.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_LOC_RUN_STOP_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R050",
+        "R048"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Reuse existing project/CC0 basic body and hands with preview root/floor alignment",
+        "source_action": "HERO_LOC_RUN_STOP_DERIVED_v01",
+        "source_file": "validation/hero_derived_review.blend"
+      }
+    },
+    {
+      "id": "LOC_TURN_L",
+      "name_zh": "站立转向左侧九十度",
+      "current_action": "HERO_INIT_LOC_TURN_L",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LOC_TURN_L",
+        "file": "deliverables/basic_motion_review/hero_basic_motion.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_LOC_TURN_L_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R049",
+        "R048"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Reuse source with explicit pose repairs: Blend first/last0.12s to natural standing and exact90degree turned standing poses",
+        "source_action": "HERO_LOC_TURN_L_TRAVERSAL_v02",
+        "source_file": "validation/hero_traversal_review.blend"
+      }
+    },
+    {
+      "id": "LOC_TURN_R",
+      "name_zh": "站立转向右侧九十度",
+      "current_action": "HERO_INIT_LOC_TURN_R",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LOC_TURN_R",
+        "file": "deliverables/basic_motion_review/hero_basic_motion.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_LOC_TURN_R_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R049",
+        "R048"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Reuse source with explicit pose repairs: Blend first/last0.12s to natural standing and exact90degree turned standing poses",
+        "source_action": "HERO_LOC_TURN_R_TRAVERSAL_v02",
+        "source_file": "validation/hero_traversal_review.blend"
+      }
+    },
+    {
+      "id": "LOC_WADE",
+      "name_zh": "浅水涉水行走",
+      "current_action": "HERO_INIT_LOC_WADE",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LOC_WADE",
+        "file": "deliverables/basic_motion_review/hero_basic_motion.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_LOC_WADE_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R049"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Reuse existing project/CC0 basic body and hands with preview root/floor alignment",
+        "source_action": "HERO_LOC_WADE_TRAVERSAL_v02",
+        "source_file": "validation/hero_traversal_review.blend"
+      }
+    },
+    {
+      "id": "LOC_STAIRS_UP",
+      "name_zh": "走上台阶",
+      "current_action": "HERO_INIT_LOC_STAIRS_UP",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LOC_STAIRS_UP",
+        "file": "deliverables/basic_motion_review/hero_basic_motion.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_LOC_STAIRS_UP_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R049"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Reuse existing project/CC0 basic body and hands with preview root/floor alignment",
+        "source_action": "HERO_LOC_STAIRS_UP_TRAVERSAL_v02",
+        "source_file": "validation/hero_traversal_review.blend"
+      }
+    },
+    {
+      "id": "LOC_STAIRS_DOWN",
+      "name_zh": "走下台阶",
+      "current_action": "HERO_INIT_LOC_STAIRS_DOWN",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LOC_STAIRS_DOWN",
+        "file": "deliverables/basic_motion_review/hero_basic_motion.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_LOC_STAIRS_DOWN_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R049"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Reuse existing project/CC0 basic body and hands with preview root/floor alignment",
+        "source_action": "HERO_LOC_STAIRS_DOWN_TRAVERSAL_v02",
+        "source_file": "validation/hero_traversal_review.blend"
+      }
+    },
+    {
+      "id": "LOC_CROUCH_ENTER",
+      "name_zh": "进入蹲伏",
+      "current_action": "HERO_INIT_LOC_CROUCH_ENTER",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LOC_CROUCH_ENTER",
+        "file": "deliverables/basic_motion_review/hero_basic_motion.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_LOC_CROUCH_ENTER_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R048",
+        "R051"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Reuse source with explicit pose repairs: Natural local pelvis backshift with standing foot anchors and IK; stationary armature object, no horizontal character travel",
+        "source_action": "HERO_LOC_CROUCH_ENTER_DERIVED_v01",
+        "source_file": "validation/hero_derived_review.blend"
+      }
+    },
+    {
+      "id": "LOC_CROUCH_IDLE",
+      "name_zh": "蹲伏保持",
+      "current_action": "HERO_INIT_LOC_CROUCH_IDLE",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LOC_CROUCH_IDLE",
+        "file": "deliverables/basic_motion_review/hero_basic_motion.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_LOC_CROUCH_IDLE_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R052"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Reuse source with explicit pose repairs: Natural local pelvis backshift with standing foot anchors and IK; stationary armature object, no horizontal character travel",
+        "source_action": "HERO_LOC_CROUCH_IDLE_FREE_v01",
+        "source_file": "validation/free_basic_candidates/LOC_CROUCH_IDLE.blend"
+      }
+    },
+    {
+      "id": "LOC_CROUCH_EXIT",
+      "name_zh": "蹲伏站起",
+      "current_action": "HERO_INIT_LOC_CROUCH_EXIT",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LOC_CROUCH_EXIT",
+        "file": "deliverables/basic_motion_review/hero_basic_motion.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_LOC_CROUCH_EXIT_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R051",
+        "R048"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Reuse source with explicit pose repairs: Natural local pelvis backshift with standing foot anchors and IK; stationary armature object, no horizontal character travel",
+        "source_action": "HERO_LOC_CROUCH_EXIT_DERIVED_v01",
+        "source_file": "validation/hero_derived_review.blend"
+      }
+    },
+    {
+      "id": "AIR_TAKEOFF",
+      "name_zh": "跳跃 起跳",
+      "current_action": "HERO_INIT_AIR_TAKEOFF",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_AIR_TAKEOFF",
+        "file": "deliverables/basic_motion_review/hero_basic_motion.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_AIR_TAKEOFF_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R048",
+        "R053",
+        "R054"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Reuse existing project/CC0 basic body and hands with preview root/floor alignment",
+        "source_action": "HERO_AIR_TAKEOFF_ANTICIPATION_v02",
+        "source_file": "validation/hero_takeoff_anticipation_v02.blend"
+      }
+    },
+    {
+      "id": "AIR_RISE",
+      "name_zh": "跳跃 空中上升",
+      "current_action": "HERO_NAT_AIR_RISE",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_AIR_RISE",
+        "file": "deliverables/basic_motion_review/hero_basic_motion.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_AIR_RISE_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R053"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Reuse existing project/CC0 basic body and hands with preview root/floor alignment",
+        "source_action": "HERO_AIR_TAKEOFF_ANTICIPATION_v02",
+        "source_file": "validation/hero_takeoff_anticipation_v02.blend"
+      }
+    },
+    {
+      "id": "AIR_FALL",
+      "name_zh": "下落 循环",
+      "current_action": "HERO_INIT_AIR_FALL",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_AIR_FALL",
+        "file": "deliverables/basic_motion_review/hero_basic_motion.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_AIR_FALL_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R055"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Reuse existing project/CC0 basic body and hands with preview root/floor alignment",
+        "source_action": "HERO_AIR_FALL_PROJECT_v01",
+        "source_file": "validation/project_basic_candidates/AIR_FALL.blend"
+      }
+    },
+    {
+      "id": "AIR_LAND_LIGHT",
+      "name_zh": "轻落地",
+      "current_action": "HERO_INIT_AIR_LAND_LIGHT",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_AIR_LAND_LIGHT",
+        "file": "deliverables/basic_motion_review/hero_basic_motion.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_AIR_LAND_LIGHT_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R056"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Derived light landing:40% source body deviation, idle relaxed hands, planted feet and idle recovery",
+        "source_action": "HERO_AIR_LAND_LIGHT_REVISED_v01",
+        "source_file": "validation/hero_repair_review.blend"
+      }
+    },
+    {
+      "id": "AIR_LAND_HEAVY",
+      "name_zh": "重落地",
+      "current_action": "HERO_NAT_AIR_LAND_HEAVY",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_AIR_LAND_HEAVY",
+        "file": "deliverables/basic_motion_review/hero_basic_motion.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_AIR_LAND_HEAVY_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R057"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Reuse existing project/CC0 basic body and hands with preview root/floor alignment",
+        "source_action": "HERO_AIR_LAND_HEAVY_FREE_v01",
+        "source_file": "validation/free_basic_candidates/AIR_LAND_HEAVY.blend"
+      }
+    },
+    {
+      "id": "AIR_RUN_JUMP",
+      "name_zh": "跑动跳跃",
+      "current_action": "HERO_NAT_AIR_RUN_JUMP",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_AIR_RUN_JUMP",
+        "file": "deliverables/basic_motion_review/hero_basic_motion.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_AIR_RUN_JUMP_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R050",
+        "R053"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Reuse existing project/CC0 basic body and hands with preview root/floor alignment",
+        "source_action": "HERO_AIR_RUN_JUMP_DERIVED_v01",
+        "source_file": "validation/hero_derived_review.blend"
+      }
+    },
+    {
+      "id": "WATER_TREAD",
+      "name_zh": "水中待机 踩水",
+      "current_action": "HERO_INIT_WATER_TREAD",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_WATER_TREAD",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/project_basic_candidates/WATER_TREAD.blend",
+        "source_action": "HERO_WATER_TREAD_PROJECT_v01",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "46514d37c91d23a1e95d881746f3dfbc99198ba861421acadd13690fcd429cbb"
+      },
+      "recorded_prior_reference_ids": [
+        "R058"
+      ]
+    },
+    {
+      "id": "WATER_SWIM",
+      "name_zh": "水面向前游泳",
+      "current_action": "HERO_INIT_WATER_SWIM",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_WATER_SWIM",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_leg_clearance_review_v03.blend",
+        "source_action": "HERO_WATER_SWIM_LEG_CLEARANCE_v03",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "b7ec9ea96c9f49e4c82fc178a80ab91c6bad9aab9a325e51d22a8a6f2d2ca1bb"
+      },
+      "recorded_prior_reference_ids": [
+        "R059"
+      ]
+    },
+    {
+      "id": "WATER_SWIM_FAST",
+      "name_zh": "水面加速游泳",
+      "current_action": "HERO_INIT_WATER_SWIM_FAST",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_WATER_SWIM_FAST",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_leg_clearance_review_v03.blend",
+        "source_action": "HERO_WATER_SWIM_FAST_LEG_CLEARANCE_v03",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "b7ec9ea96c9f49e4c82fc178a80ab91c6bad9aab9a325e51d22a8a6f2d2ca1bb"
+      },
+      "recorded_prior_reference_ids": [
+        "R060"
+      ]
+    },
+    {
+      "id": "WATER_START",
+      "name_zh": "踩水转为游泳",
+      "current_action": "HERO_INIT_WATER_START",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_WATER_START",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_derived_review.blend",
+        "source_action": "HERO_WATER_START_DERIVED_v01",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "c93b5aca935f5cbb04eb688ccc323c8f30146301f880e8c426e13271a07da53b"
+      },
+      "recorded_prior_reference_ids": [
+        "R061",
+        "R059"
+      ]
+    },
+    {
+      "id": "WATER_STOP",
+      "name_zh": "游泳转为踩水",
+      "current_action": "HERO_INIT_WATER_STOP",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_WATER_STOP",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_derived_review.blend",
+        "source_action": "HERO_WATER_STOP_DERIVED_v01",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "c93b5aca935f5cbb04eb688ccc323c8f30146301f880e8c426e13271a07da53b"
+      },
+      "recorded_prior_reference_ids": [
+        "R059",
+        "R061"
+      ]
+    },
+    {
+      "id": "WATER_ENTER",
+      "name_zh": "从浅水进入深水",
+      "current_action": "HERO_INIT_WATER_ENTER",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_WATER_ENTER",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review.blend",
+        "source_action": "HERO_WATER_ENTER_TRAVERSAL_v02",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "2ef3e5db4c509e94b2d7adb0d069e27714fdc6da38cb3cd23e58451470bb6073"
+      },
+      "recorded_prior_reference_ids": [
+        "R049",
+        "R061"
+      ]
+    },
+    {
+      "id": "WATER_EXIT_SHORE",
+      "name_zh": "游泳到浅滩站起",
+      "current_action": "HERO_INIT_WATER_EXIT_SHORE",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_WATER_EXIT_SHORE",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review.blend",
+        "source_action": "HERO_WATER_EXIT_SHORE_TRAVERSAL_v02",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "2ef3e5db4c509e94b2d7adb0d069e27714fdc6da38cb3cd23e58451470bb6073"
+      },
+      "recorded_prior_reference_ids": [
+        "R061",
+        "R048"
+      ]
+    },
+    {
+      "id": "WATER_TURN_L",
+      "name_zh": "水面转向左",
+      "current_action": "HERO_INIT_WATER_TURN_L",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_WATER_TURN_L",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review.blend",
+        "source_action": "HERO_WATER_TURN_L_TRAVERSAL_v02",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "2ef3e5db4c509e94b2d7adb0d069e27714fdc6da38cb3cd23e58451470bb6073"
+      },
+      "recorded_prior_reference_ids": [
+        "R061"
+      ]
+    },
+    {
+      "id": "WATER_TURN_R",
+      "name_zh": "水面转向右",
+      "current_action": "HERO_INIT_WATER_TURN_R",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_WATER_TURN_R",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review.blend",
+        "source_action": "HERO_WATER_TURN_R_TRAVERSAL_v02",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "2ef3e5db4c509e94b2d7adb0d069e27714fdc6da38cb3cd23e58451470bb6073"
+      },
+      "recorded_prior_reference_ids": [
+        "R061"
+      ]
+    },
+    {
+      "id": "CLIMB_ENTER",
+      "name_zh": "墙面攀爬 抓住墙",
+      "current_action": "HERO_INIT_CLIMB_ENTER",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_CLIMB_ENTER",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_wall_grip_review_v04.blend",
+        "source_action": "HERO_CLIMB_ENTER_WALL_GRIP_v04",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "4f79db5354455b7ca9c3070997e1b33eb7c2b5244512db44416a802bb5155d0b"
+      },
+      "recorded_prior_reference_ids": [
+        "R048",
+        "R062",
+        "R063",
+        "R064"
+      ]
+    },
+    {
+      "id": "CLIMB_IDLE",
+      "name_zh": "墙面攀爬 保持",
+      "current_action": "HERO_INIT_CLIMB_IDLE",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_CLIMB_IDLE",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_wall_grip_review_v04.blend",
+        "source_action": "HERO_CLIMB_IDLE_WALL_GRIP_v04",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "4f79db5354455b7ca9c3070997e1b33eb7c2b5244512db44416a802bb5155d0b"
+      },
+      "recorded_prior_reference_ids": [
+        "R048",
+        "R062",
+        "R063",
+        "R064"
+      ]
+    },
+    {
+      "id": "CLIMB_UP",
+      "name_zh": "墙面攀爬 向上",
+      "current_action": "HERO_INIT_CLIMB_UP",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_CLIMB_UP",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_wall_grip_review_v04.blend",
+        "source_action": "HERO_CLIMB_UP_WALL_GRIP_v04",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "4f79db5354455b7ca9c3070997e1b33eb7c2b5244512db44416a802bb5155d0b"
+      },
+      "recorded_prior_reference_ids": [
+        "R048",
+        "R062",
+        "R063",
+        "R064"
+      ]
+    },
+    {
+      "id": "CLIMB_DOWN",
+      "name_zh": "墙面攀爬 向下",
+      "current_action": "HERO_INIT_CLIMB_DOWN",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_CLIMB_DOWN",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review.blend",
+        "source_action": "HERO_CLIMB_DOWN_TRAVERSAL_v02",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "2ef3e5db4c509e94b2d7adb0d069e27714fdc6da38cb3cd23e58451470bb6073"
+      },
+      "recorded_prior_reference_ids": [
+        "R062"
+      ]
+    },
+    {
+      "id": "CLIMB_SIDE_L",
+      "name_zh": "墙面攀爬 向左",
+      "current_action": "HERO_INIT_CLIMB_SIDE_L",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_CLIMB_SIDE_L",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v07.blend",
+        "source_action": "HERO_CLIMB_SIDE_L_TRAVERSAL_v07",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "793e5625fa4d6ea08fd4c26f6ec6662bffa621c72efe8e53077a14e75022a912"
+      },
+      "recorded_prior_reference_ids": [
+        "R062",
+        "R064"
+      ]
+    },
+    {
+      "id": "CLIMB_SIDE_R",
+      "name_zh": "墙面攀爬 向右",
+      "current_action": "HERO_INIT_CLIMB_SIDE_R",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_CLIMB_SIDE_R",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v07.blend",
+        "source_action": "HERO_CLIMB_SIDE_R_TRAVERSAL_v07",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "793e5625fa4d6ea08fd4c26f6ec6662bffa621c72efe8e53077a14e75022a912"
+      },
+      "recorded_prior_reference_ids": [
+        "R062",
+        "R064"
+      ]
+    },
+    {
+      "id": "CLIMB_TOP",
+      "name_zh": "墙面攀爬 翻上墙顶",
+      "current_action": "HERO_INIT_CLIMB_TOP",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_CLIMB_TOP",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_leg_clearance_review_v03.blend",
+        "source_action": "HERO_CLIMB_TOP_LEG_CLEARANCE_v03",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "b7ec9ea96c9f49e4c82fc178a80ab91c6bad9aab9a325e51d22a8a6f2d2ca1bb"
+      },
+      "recorded_prior_reference_ids": [
+        "R065"
+      ]
+    },
+    {
+      "id": "CLIMB_DETACH",
+      "name_zh": "墙面攀爬 主动松手",
+      "current_action": "HERO_INIT_CLIMB_DETACH",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_CLIMB_DETACH",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_wall_grip_review_v04.blend",
+        "source_action": "HERO_CLIMB_DETACH_WALL_GRIP_v04",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "4f79db5354455b7ca9c3070997e1b33eb7c2b5244512db44416a802bb5155d0b"
+      },
+      "recorded_prior_reference_ids": [
+        "R048",
+        "R062",
+        "R063",
+        "R064"
+      ]
+    },
+    {
+      "id": "CLIMB_SCRAMBLE",
+      "name_zh": "岩石斜坡 手脚并用",
+      "current_action": "HERO_INIT_CLIMB_SCRAMBLE",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_CLIMB_SCRAMBLE",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_scramble_contact_v12.blend",
+        "source_action": "HERO_CLIMB_SCRAMBLE_ROCK_CONTACT_v12",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "636fa987e4a9e4faf5576197b402dce9201f50b80485cc121e4db3a873118432"
+      },
+      "recorded_prior_reference_ids": [
+        "R066",
+        "R067",
+        "R068"
+      ]
+    },
+    {
+      "id": "LEDGE_GRAB",
+      "name_zh": "空中抓住边缘",
+      "current_action": "HERO_NAT_LEDGE_GRAB",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LEDGE_GRAB",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review.blend",
+        "source_action": "HERO_LEDGE_GRAB_TRAVERSAL_v02",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "2ef3e5db4c509e94b2d7adb0d069e27714fdc6da38cb3cd23e58451470bb6073"
+      },
+      "recorded_prior_reference_ids": [
+        "R063",
+        "R062"
+      ]
+    },
+    {
+      "id": "LEDGE_HANG",
+      "name_zh": "边缘悬挂 保持",
+      "current_action": "HERO_NAT_LEDGE_HANG",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LEDGE_HANG",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review.blend",
+        "source_action": "HERO_LEDGE_HANG_TRAVERSAL_v02",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "2ef3e5db4c509e94b2d7adb0d069e27714fdc6da38cb3cd23e58451470bb6073"
+      },
+      "recorded_prior_reference_ids": [
+        "R062"
+      ]
+    },
+    {
+      "id": "LEDGE_SHIMMY_L",
+      "name_zh": "边缘悬挂 向左挪动",
+      "current_action": "HERO_INIT_LEDGE_SHIMMY_L",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LEDGE_SHIMMY_L",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v07.blend",
+        "source_action": "HERO_LEDGE_SHIMMY_L_TRAVERSAL_v07",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "793e5625fa4d6ea08fd4c26f6ec6662bffa621c72efe8e53077a14e75022a912"
+      },
+      "recorded_prior_reference_ids": [
+        "R062",
+        "R064"
+      ]
+    },
+    {
+      "id": "LEDGE_SHIMMY_R",
+      "name_zh": "边缘悬挂 向右挪动",
+      "current_action": "HERO_INIT_LEDGE_SHIMMY_R",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LEDGE_SHIMMY_R",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v07.blend",
+        "source_action": "HERO_LEDGE_SHIMMY_R_TRAVERSAL_v07",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "793e5625fa4d6ea08fd4c26f6ec6662bffa621c72efe8e53077a14e75022a912"
+      },
+      "recorded_prior_reference_ids": [
+        "R062",
+        "R064"
+      ]
+    },
+    {
+      "id": "LEDGE_PULLUP",
+      "name_zh": "边缘悬挂 拉上平台",
+      "current_action": "HERO_NAT_LEDGE_PULLUP",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LEDGE_PULLUP",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_leg_clearance_review_v03.blend",
+        "source_action": "HERO_LEDGE_PULLUP_LEG_CLEARANCE_v03",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "b7ec9ea96c9f49e4c82fc178a80ab91c6bad9aab9a325e51d22a8a6f2d2ca1bb"
+      },
+      "recorded_prior_reference_ids": [
+        "R069"
+      ]
+    },
+    {
+      "id": "LEDGE_DROP",
+      "name_zh": "边缘悬挂 松手下落",
+      "current_action": "HERO_NAT_LEDGE_DROP",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LEDGE_DROP",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review.blend",
+        "source_action": "HERO_LEDGE_DROP_TRAVERSAL_v02",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "2ef3e5db4c509e94b2d7adb0d069e27714fdc6da38cb3cd23e58451470bb6073"
+      },
+      "recorded_prior_reference_ids": [
+        "R062",
+        "R063"
+      ]
+    },
+    {
+      "id": "LADDER_ENTER",
+      "name_zh": "梯子 踏上底部",
+      "current_action": "HERO_INIT_LADDER_ENTER",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LADDER_ENTER",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v04.blend",
+        "source_action": "HERO_LADDER_ENTER_TRAVERSAL_v04",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "0f710e169c17a4555213497379761d5bef72b1d8353783b2ff294a1af7b765ce"
+      },
+      "recorded_prior_reference_ids": [
+        "R048",
+        "R062",
+        "R064"
+      ]
+    },
+    {
+      "id": "LADDER_UP",
+      "name_zh": "梯子 向上",
+      "current_action": "HERO_NAT_LADDER_UP",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LADDER_UP",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v04.blend",
+        "source_action": "HERO_LADDER_UP_TRAVERSAL_v04",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "0f710e169c17a4555213497379761d5bef72b1d8353783b2ff294a1af7b765ce"
+      },
+      "recorded_prior_reference_ids": [
+        "R062",
+        "R064"
+      ]
+    },
+    {
+      "id": "LADDER_DOWN",
+      "name_zh": "梯子 向下",
+      "current_action": "HERO_NAT_LADDER_DOWN",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LADDER_DOWN",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v04.blend",
+        "source_action": "HERO_LADDER_DOWN_TRAVERSAL_v04",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "0f710e169c17a4555213497379761d5bef72b1d8353783b2ff294a1af7b765ce"
+      },
+      "recorded_prior_reference_ids": [
+        "R062",
+        "R064"
+      ]
+    },
+    {
+      "id": "LADDER_HOLD",
+      "name_zh": "梯子 中途停住",
+      "current_action": "HERO_NAT_LADDER_HOLD",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LADDER_HOLD",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v04.blend",
+        "source_action": "HERO_LADDER_HOLD_TRAVERSAL_v04",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "0f710e169c17a4555213497379761d5bef72b1d8353783b2ff294a1af7b765ce"
+      },
+      "recorded_prior_reference_ids": [
+        "R062",
+        "R064"
+      ]
+    },
+    {
+      "id": "LADDER_EXIT_TOP",
+      "name_zh": "梯子 从顶端踏上平台",
+      "current_action": "HERO_NAT_LADDER_EXIT_TOP",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_LADDER_EXIT_TOP_WristRecovery",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v04.blend",
+        "source_action": "HERO_LADDER_EXIT_TOP_TRAVERSAL_v04",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "0f710e169c17a4555213497379761d5bef72b1d8353783b2ff294a1af7b765ce"
+      },
+      "recorded_prior_reference_ids": [
+        "R062",
+        "R048",
+        "R064"
+      ]
+    },
+    {
+      "id": "LADDER_EXIT_BOTTOM",
+      "name_zh": "梯子 从底部落地",
+      "current_action": "HERO_INIT_LADDER_EXIT_BOTTOM",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LADDER_EXIT_BOTTOM",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v06.blend",
+        "source_action": "HERO_LADDER_EXIT_BOTTOM_TRAVERSAL_v06",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "5c1a05efb53b41d8429e0c5e81b31a737d1be2fef2a1484f8fa1dc6ac3324803"
+      },
+      "recorded_prior_reference_ids": [
+        "R062",
+        "R048",
+        "R064"
+      ]
+    },
+    {
+      "id": "LADDER_ENTER_TOP",
+      "name_zh": "梯子 从平台顶端下梯",
+      "current_action": "HERO_NAT_LADDER_ENTER_TOP",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_LADDER_ENTER_TOP_WristRecovery",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v04.blend",
+        "source_action": "HERO_LADDER_ENTER_TOP_TRAVERSAL_v04",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "0f710e169c17a4555213497379761d5bef72b1d8353783b2ff294a1af7b765ce"
+      },
+      "recorded_prior_reference_ids": [
+        "R062",
+        "R048",
+        "R064"
+      ]
+    },
+    {
+      "id": "ROPE_ENTER",
+      "name_zh": "绳索 抓握进入",
+      "current_action": "HERO_NAT_ROPE_ENTER",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_ROPE_ENTER",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v05.blend",
+        "source_action": "HERO_ROPE_ENTER_TRAVERSAL_v05",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "77593c63ca85470c0d7fb37c8a905ce870e26073e497e747202ca1de17d59db1"
+      },
+      "recorded_prior_reference_ids": [
+        "R048",
+        "R062",
+        "R064"
+      ]
+    },
+    {
+      "id": "ROPE_UP",
+      "name_zh": "绳索 向上攀爬",
+      "current_action": "HERO_NAT_ROPE_UP",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_ROPE_UP",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v05.blend",
+        "source_action": "HERO_ROPE_UP_TRAVERSAL_v05",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "77593c63ca85470c0d7fb37c8a905ce870e26073e497e747202ca1de17d59db1"
+      },
+      "recorded_prior_reference_ids": [
+        "R062",
+        "R064"
+      ]
+    },
+    {
+      "id": "ROPE_DOWN",
+      "name_zh": "绳索 有控制地下移",
+      "current_action": "HERO_NAT_ROPE_DOWN",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_ROPE_DOWN",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v05.blend",
+        "source_action": "HERO_ROPE_DOWN_TRAVERSAL_v05",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "77593c63ca85470c0d7fb37c8a905ce870e26073e497e747202ca1de17d59db1"
+      },
+      "recorded_prior_reference_ids": [
+        "R062",
+        "R064"
+      ]
+    },
+    {
+      "id": "ROPE_HOLD",
+      "name_zh": "绳索 停住",
+      "current_action": "HERO_NAT_ROPE_HOLD",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_ROPE_HOLD",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v05.blend",
+        "source_action": "HERO_ROPE_HOLD_TRAVERSAL_v05",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "77593c63ca85470c0d7fb37c8a905ce870e26073e497e747202ca1de17d59db1"
+      },
+      "recorded_prior_reference_ids": [
+        "R062",
+        "R064"
+      ]
+    },
+    {
+      "id": "ROPE_RELEASE",
+      "name_zh": "绳索 松手下落",
+      "current_action": "HERO_NAT_ROPE_RELEASE",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_ROPE_RELEASE",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v05.blend",
+        "source_action": "HERO_ROPE_RELEASE_TRAVERSAL_v05",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "77593c63ca85470c0d7fb37c8a905ce870e26073e497e747202ca1de17d59db1"
+      },
+      "recorded_prior_reference_ids": [
+        "R062",
+        "R063",
+        "R064"
+      ]
+    },
+    {
+      "id": "ROPE_EXIT_GROUND",
+      "name_zh": "绳索 底端落脚退出",
+      "current_action": "HERO_NAT_ROPE_EXIT_GROUND",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_ROPE_EXIT_GROUND",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v06.blend",
+        "source_action": "HERO_ROPE_EXIT_GROUND_TRAVERSAL_v06",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "5c1a05efb53b41d8429e0c5e81b31a737d1be2fef2a1484f8fa1dc6ac3324803"
+      },
+      "recorded_prior_reference_ids": [
+        "R062",
+        "R048",
+        "R064"
+      ]
+    },
+    {
+      "id": "POLE_CLIMB",
+      "name_zh": "树干或立柱 攀爬",
+      "current_action": "HERO_INIT_POLE_CLIMB",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_POLE_CLIMB",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v04.blend",
+        "source_action": "HERO_POLE_CLIMB_TRAVERSAL_v04",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "0f710e169c17a4555213497379761d5bef72b1d8353783b2ff294a1af7b765ce"
+      },
+      "recorded_prior_reference_ids": [
+        "R062"
+      ]
+    },
+    {
+      "id": "POLE_ENTER",
+      "name_zh": "树干或立柱 抱握进入",
+      "current_action": "HERO_INIT_POLE_ENTER",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_POLE_ENTER",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v04.blend",
+        "source_action": "HERO_POLE_ENTER_TRAVERSAL_v04",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "0f710e169c17a4555213497379761d5bef72b1d8353783b2ff294a1af7b765ce"
+      },
+      "recorded_prior_reference_ids": [
+        "R048",
+        "R062"
+      ]
+    },
+    {
+      "id": "POLE_HOLD",
+      "name_zh": "树干或立柱 抱握保持",
+      "current_action": "HERO_NAT_POLE_HOLD",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_POLE_HOLD",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v04.blend",
+        "source_action": "HERO_POLE_HOLD_TRAVERSAL_v04",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "0f710e169c17a4555213497379761d5bef72b1d8353783b2ff294a1af7b765ce"
+      },
+      "recorded_prior_reference_ids": [
+        "R062"
+      ]
+    },
+    {
+      "id": "POLE_DOWN",
+      "name_zh": "树干或立柱 有控制地下移",
+      "current_action": "HERO_INIT_POLE_DOWN",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_POLE_DOWN",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v04.blend",
+        "source_action": "HERO_POLE_DOWN_TRAVERSAL_v04",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "0f710e169c17a4555213497379761d5bef72b1d8353783b2ff294a1af7b765ce"
+      },
+      "recorded_prior_reference_ids": [
+        "R062"
+      ]
+    },
+    {
+      "id": "POLE_RELEASE",
+      "name_zh": "树干或立柱 松开下落",
+      "current_action": "HERO_INIT_POLE_RELEASE",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_POLE_RELEASE",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v04.blend",
+        "source_action": "HERO_POLE_RELEASE_TRAVERSAL_v04",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "0f710e169c17a4555213497379761d5bef72b1d8353783b2ff294a1af7b765ce"
+      },
+      "recorded_prior_reference_ids": [
+        "R062",
+        "R063"
+      ]
+    },
+    {
+      "id": "POLE_EXIT_GROUND",
+      "name_zh": "树干或立柱 柱底落脚退出",
+      "current_action": "HERO_INIT_POLE_EXIT_GROUND",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_POLE_EXIT_GROUND",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v06.blend",
+        "source_action": "HERO_POLE_EXIT_GROUND_TRAVERSAL_v06",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "5c1a05efb53b41d8429e0c5e81b31a737d1be2fef2a1484f8fa1dc6ac3324803"
+      },
+      "recorded_prior_reference_ids": [
+        "R062",
+        "R048"
+      ]
+    },
+    {
+      "id": "OBSTACLE_LOW_STEP",
+      "name_zh": "低矮平台 踏上",
+      "current_action": "HERO_INIT_OBSTACLE_LOW_STEP",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_OBSTACLE_LOW_STEP",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review_v09.blend",
+        "source_action": "HERO_OBSTACLE_LOW_STEP_TRAVERSAL_v09",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "35856051bf68f3e4daa39c53746c73dffa7f7ed698da85a8ed3193be04b6277f"
+      },
+      "recorded_prior_reference_ids": [
+        "R048"
+      ]
+    },
+    {
+      "id": "OBSTACLE_VAULT",
+      "name_zh": "矮墙或栏杆 支撑跨越",
+      "current_action": "HERO_INIT_OBSTACLE_VAULT",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_OBSTACLE_VAULT",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review.blend",
+        "source_action": "HERO_OBSTACLE_VAULT_TRAVERSAL_v03",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "2ef3e5db4c509e94b2d7adb0d069e27714fdc6da38cb3cd23e58451470bb6073"
+      },
+      "recorded_prior_reference_ids": [
+        "R048",
+        "R051"
+      ]
+    },
+    {
+      "id": "OBSTACLE_MANTLE",
+      "name_zh": "胸口高平台 撑手翻上",
+      "current_action": "HERO_INIT_OBSTACLE_MANTLE",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_OBSTACLE_MANTLE",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/mantle_v30_current/hero_mantle_v30_compact.blend",
+        "source_action": "HERO_OBSTACLE_MANTLE_TRAVERSER_v30",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "99f6936b71e9526d64db59091b36ca6a7af21e340e0f7f403b9cbbe36ae82a8c"
+      },
+      "recorded_prior_reference_ids": [
+        "R070",
+        "R071"
+      ]
+    },
+    {
+      "id": "COMBAT_IDLE",
+      "name_zh": "持剑战斗待机",
+      "current_action": "HERO_INIT_COMBAT_IDLE",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_COMBAT_IDLE",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_COMBAT_IDLE_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R001",
+        "R072",
+        "R003"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Local authored choreography on actual Tripo idle/rig; not a new website generation",
+        "source_base_action": "HERO_TRIPO_COMBAT_IDLE_LoopRepair_v01"
+      }
+    },
+    {
+      "id": "HAND_GRIP_R",
+      "name_zh": "右手持剑 固定握柄手型",
+      "current_action": "HERO_HAND_GRIP_R_FingersOnly",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_HAND_GRIP_R_FingersOnly",
+        "file": "deliverables/equipment_motion_review/hero_equipment_motion.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_derived_review.blend",
+        "source_action": "HERO_HAND_GRIP_R_DERIVED_v01",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "c93b5aca935f5cbb04eb688ccc323c8f30146301f880e8c426e13271a07da53b"
+      },
+      "recorded_prior_reference_ids": [
+        "R013"
+      ]
+    },
+    {
+      "id": "COMBAT_MOVE_F",
+      "name_zh": "持剑移动 向前",
+      "current_action": "HERO_NAT_COMBAT_MOVE_F",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_COMBAT_MOVE_F",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_COMBAT_MOVE_F_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R073",
+        "R013",
+        "R049",
+        "R003"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Existing local gait body plus current Tripo Ready arm/grip layer",
+        "source_action": "HERO_COMBAT_MOVE_F_EMPTY_LEFT_WRIST_v01",
+        "source_file": "validation/hero_core_empty_left_wrist_v01.blend"
+      }
+    },
+    {
+      "id": "COMBAT_MOVE_B",
+      "name_zh": "持剑移动 后退",
+      "current_action": "HERO_NAT_COMBAT_MOVE_B",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_COMBAT_MOVE_B",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_COMBAT_MOVE_B_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R074",
+        "R013",
+        "R049",
+        "R003"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Existing local gait body plus current Tripo Ready arm/grip layer",
+        "source_action": "HERO_COMBAT_MOVE_B_EMPTY_LEFT_WRIST_v01",
+        "source_file": "validation/hero_core_empty_left_wrist_v01.blend"
+      }
+    },
+    {
+      "id": "COMBAT_MOVE_L",
+      "name_zh": "持剑移动 向左",
+      "current_action": "HERO_NAT_COMBAT_MOVE_L",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_COMBAT_MOVE_L",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_COMBAT_MOVE_L_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R075",
+        "R013",
+        "R049",
+        "R003"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Existing local gait body plus current Tripo Ready arm/grip layer",
+        "source_action": "HERO_COMBAT_MOVE_L_EMPTY_LEFT_WRIST_v01",
+        "source_file": "validation/hero_core_empty_left_wrist_v01.blend"
+      }
+    },
+    {
+      "id": "COMBAT_MOVE_R",
+      "name_zh": "持剑移动 向右",
+      "current_action": "HERO_NAT_COMBAT_MOVE_R",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_COMBAT_MOVE_R",
+        "file": "deliverables/core_combat_review/hero_core_combat.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_COMBAT_MOVE_R_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R076",
+        "R013",
+        "R049",
+        "R003"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Existing local gait body plus current Tripo Ready arm/grip layer",
+        "source_action": "HERO_COMBAT_MOVE_R_EMPTY_LEFT_WRIST_v01",
+        "source_file": "validation/hero_core_empty_left_wrist_v01.blend"
+      }
+    },
+    {
+      "id": "EQUIP_DRAW",
+      "name_zh": "拔剑进入战斗",
+      "current_action": "HERO_EQUIP_DRAW_UpperBodyCompact",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_EQUIP_DRAW_UpperBodyCompact",
+        "file": "deliverables/compact_equipment_review/hero_compact_equip.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_equip_axial_v18.blend",
+        "source_action": "HERO_EQUIP_DRAW_AXIAL_COUNTERPULL_v18",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "a02d755fe24facd6181bc31c5765a91022cb14c12f4b929e30b0405888fc3608"
+      },
+      "recorded_prior_reference_ids": [
+        "R077",
+        "R078",
+        "R079",
+        "R080",
+        "R081",
+        "R082"
+      ],
+      "selection_note_zh": "当前使用UpperBodyCompact版本；initial_assembly_source及旧manifest参考仅保留为追溯记录，不能当成当前采用完整实体出鞘。"
+    },
+    {
+      "id": "EQUIP_SHEATHE",
+      "name_zh": "收剑退出战斗",
+      "current_action": "HERO_EQUIP_SHEATHE_UpperBodyCompact",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_EQUIP_SHEATHE_UpperBodyCompact",
+        "file": "deliverables/compact_equipment_review/hero_compact_equip.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_equip_axial_v18.blend",
+        "source_action": "HERO_EQUIP_SHEATHE_AXIAL_COUNTERPULL_v18",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "a02d755fe24facd6181bc31c5765a91022cb14c12f4b929e30b0405888fc3608"
+      },
+      "recorded_prior_reference_ids": [
+        "R077",
+        "R078",
+        "R079",
+        "R080",
+        "R081",
+        "R082"
+      ],
+      "selection_note_zh": "当前使用UpperBodyCompact版本；initial_assembly_source及旧manifest参考仅保留为追溯记录，不能当成当前采用完整实体出鞘。"
+    },
+    {
+      "id": "HIT_LIGHT_F",
+      "name_zh": "轻受击 来自正面",
+      "current_action": "HERO_INIT_HIT_LIGHT_F",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_HIT_LIGHT_F",
+        "file": "deliverables/combat_support_review/hero_combat_support.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_HIT_LIGHT_F_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R083",
+        "R084",
+        "R013",
+        "R003"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Existing local project/derived hit candidates, not newly generated Tripo hit clips",
+        "source_action": "HERO_HIT_LIGHT_F_EMPTY_LEFT_WRIST_v01",
+        "source_file": "validation/hero_core_empty_left_wrist_v01.blend"
+      }
+    },
+    {
+      "id": "HIT_LIGHT_B",
+      "name_zh": "轻受击 来自背面",
+      "current_action": "HERO_INIT_HIT_LIGHT_B",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_HIT_LIGHT_B",
+        "file": "deliverables/combat_support_review/hero_combat_support.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_HIT_LIGHT_B_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R085",
+        "R013",
+        "R003"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Existing local project/derived hit candidates, not newly generated Tripo hit clips",
+        "source_action": "HERO_HIT_LIGHT_B_EMPTY_LEFT_WRIST_v01",
+        "source_file": "validation/hero_core_empty_left_wrist_v01.blend"
+      }
+    },
+    {
+      "id": "HIT_LIGHT_L",
+      "name_zh": "轻受击 来自左侧",
+      "current_action": "HERO_INIT_HIT_LIGHT_L",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_HIT_LIGHT_L",
+        "file": "deliverables/combat_support_review/hero_combat_support.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_HIT_LIGHT_L_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R086",
+        "R013",
+        "R003"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Existing local project/derived hit candidates, not newly generated Tripo hit clips",
+        "source_action": "HERO_HIT_LIGHT_L_EMPTY_LEFT_WRIST_v01",
+        "source_file": "validation/hero_core_empty_left_wrist_v01.blend"
+      }
+    },
+    {
+      "id": "HIT_LIGHT_R",
+      "name_zh": "轻受击 来自右侧",
+      "current_action": "HERO_INIT_HIT_LIGHT_R",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_HIT_LIGHT_R",
+        "file": "deliverables/combat_support_review/hero_combat_support.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_HIT_LIGHT_R_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R087",
+        "R013",
+        "R003"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Existing local project/derived hit candidates, not newly generated Tripo hit clips",
+        "source_action": "HERO_HIT_LIGHT_R_EMPTY_LEFT_WRIST_v01",
+        "source_file": "validation/hero_core_empty_left_wrist_v01.blend"
+      }
+    },
+    {
+      "id": "HIT_HEAVY",
+      "name_zh": "重受击 踉跄后恢复",
+      "current_action": "HERO_INIT_HIT_HEAVY",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_HIT_HEAVY",
+        "file": "deliverables/combat_support_review/hero_combat_support.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_HIT_HEAVY_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R088",
+        "R089",
+        "R013",
+        "R003"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Existing local project/derived hit candidates, not newly generated Tripo hit clips",
+        "source_action": "HERO_HIT_HEAVY_EMPTY_LEFT_WRIST_v01",
+        "source_file": "validation/hero_core_empty_left_wrist_v01.blend"
+      }
+    },
+    {
+      "id": "HIT_KNOCKDOWN",
+      "name_zh": "被击倒 仰躺",
+      "current_action": "HERO_INIT_HIT_KNOCKDOWN",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_HIT_KNOCKDOWN",
+        "file": "deliverables/combat_support_review/hero_combat_support.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_HIT_KNOCKDOWN_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R090"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Existing local source body animations, not newly generated Tripo clips",
+        "source_action": "HERO_HIT_KNOCKDOWN_FREE_v01",
+        "source_file": "validation/free_basic_candidates/HIT_KNOCKDOWN.blend"
+      }
+    },
+    {
+      "id": "HIT_GETUP",
+      "name_zh": "仰躺后起身",
+      "current_action": "HERO_GETUP_NoFloorPalm",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_GETUP_NoFloorPalm",
+        "file": "deliverables/combat_support_review/hero_combat_support.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_HIT_GETUP_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R091",
+        "R092",
+        "R048"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Existing local source body animations, not newly generated Tripo clips",
+        "source_action": "HERO_HIT_GETUP_REVISED_v01",
+        "source_file": "validation/hero_repair_review.blend"
+      }
+    },
+    {
+      "id": "DEATH_GROUND",
+      "name_zh": "地面死亡 前扑倒下",
+      "current_action": "HERO_INIT_DEATH_GROUND",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_DEATH_GROUND",
+        "file": "deliverables/combat_support_review/hero_combat_support.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_DEATH_GROUND_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R093"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Existing local body animation, pose-layer repair on actual Tripo skeleton",
+        "source_action": "HERO_DEATH_GROUND_PROJECT_v01",
+        "source_file": "C:\\Users\\kenny\\Documents\\GitHub\\2026s2-project-1-kingofgraphic\\output\\hero-motion-production-20261012\\validation\\project_basic_candidates\\DEATH_GROUND.blend"
+      }
+    },
+    {
+      "id": "DEATH_HOLD",
+      "name_zh": "死亡后 保持尸体姿势",
+      "current_action": "HERO_INIT_DEATH_HOLD",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_DEATH_HOLD",
+        "file": "deliverables/combat_support_review/hero_combat_support.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_DEATH_HOLD_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R094"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Existing local body animation, pose-layer repair on actual Tripo skeleton",
+        "source_action": "HERO_DEATH_GROUND_PROJECT_v01",
+        "source_file": "C:\\Users\\kenny\\Documents\\GitHub\\2026s2-project-1-kingofgraphic\\output\\hero-motion-production-20261012\\validation\\project_basic_candidates\\DEATH_GROUND.blend"
+      }
+    },
+    {
+      "id": "DEATH_WATER",
+      "name_zh": "水中死亡 停止划水",
+      "current_action": "HERO_INIT_DEATH_WATER",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_DEATH_WATER",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_death_head_review_v03.blend",
+        "source_action": "HERO_DEATH_WATER_HEAD_DROOP_v03",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "5c3a987681a6132eb6a096f48e0b64398881e3a7c8dee1e18ea0fc9daa9afb80"
+      },
+      "recorded_prior_reference_ids": [
+        "R095",
+        "R048"
+      ]
+    },
+    {
+      "id": "DEATH_AIR",
+      "name_zh": "空中死亡 失去平衡",
+      "current_action": "HERO_INIT_DEATH_AIR",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_DEATH_AIR",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_death_head_review_v03.blend",
+        "source_action": "HERO_DEATH_AIR_HEAD_DROOP_v03",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "5c3a987681a6132eb6a096f48e0b64398881e3a7c8dee1e18ea0fc9daa9afb80"
+      },
+      "recorded_prior_reference_ids": [
+        "R096",
+        "R048"
+      ]
+    },
+    {
+      "id": "RESPAWN_RECOVER",
+      "name_zh": "重生后恢复站立",
+      "current_action": "HERO_RESPAWN_InPlace",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_RESPAWN_InPlace",
+        "file": "deliverables/combat_support_review/hero_combat_support.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_derived_review.blend",
+        "source_action": "HERO_RESPAWN_RECOVER_DERIVED_v01",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "c93b5aca935f5cbb04eb688ccc323c8f30146301f880e8c426e13271a07da53b"
+      },
+      "recorded_prior_reference_ids": [
+        "R092",
+        "R048"
+      ]
+    },
+    {
+      "id": "INTERACT_PICKUP",
+      "name_zh": "拾取 地面物品",
+      "current_action": "HERO_NAT_INTERACT_PICKUP",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_INTERACT_PICKUP",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_pickup_repair_review_v03.blend",
+        "source_action": "HERO_INTERACT_PICKUP_GROUND_PICKUP_v03",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "f5a67a307f15db905d2a7c601b66527b70ba0635470f2ba409fb2e7f052bf54d"
+      },
+      "recorded_prior_reference_ids": [
+        "R048",
+        "R051",
+        "R097"
+      ]
+    },
+    {
+      "id": "INTERACT_TOUCH",
+      "name_zh": "交互 触碰胸前机关",
+      "current_action": "HERO_INIT_INTERACT_TOUCH",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_INTERACT_TOUCH",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/free_basic_candidates/INTERACT_TOUCH.blend",
+        "source_action": "HERO_INTERACT_TOUCH_FREE_v01",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "16ffef170afeff305dcf4b8ce62ef663a60b5198b495f612469a1f5095ec37e6"
+      },
+      "recorded_prior_reference_ids": [
+        "R098"
+      ]
+    },
+    {
+      "id": "INTERACT_CHEST",
+      "name_zh": "交互 打开低位箱子",
+      "current_action": "HERO_NAT_INTERACT_CHEST",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_INTERACT_CHEST",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/free_basic_candidates/INTERACT_CHEST.blend",
+        "source_action": "HERO_INTERACT_CHEST_FREE_v01",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "bfc93cfe1407fa7a2e661dfeb69beaf76ade9c611110e8420cbcb667b566c3ab"
+      },
+      "recorded_prior_reference_ids": [
+        "R099"
+      ]
+    },
+    {
+      "id": "INTERACT_USE_ITEM",
+      "name_zh": "交互 使用随身道具",
+      "current_action": "HERO_INTERACT_USE_ITEM_SwordSafe",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INTERACT_USE_ITEM_SwordSafe",
+        "file": "deliverables/equipment_motion_review/hero_equipment_motion.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/free_basic_candidates/INTERACT_USE_ITEM.blend",
+        "source_action": "HERO_INTERACT_USE_ITEM_FREE_v01",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "abbaa063adf2b272e08d6f5edbb8fc03f3873fa3f5c364e76b346772554d8921"
+      },
+      "recorded_prior_reference_ids": [
+        "R100"
+      ]
+    },
+    {
+      "id": "INTERACT_REST_ENTER",
+      "name_zh": "休息 坐下",
+      "current_action": "HERO_NAT_INTERACT_REST_ENTER",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_INTERACT_REST_ENTER",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_rest_family_hand_v03.blend",
+        "source_action": "HERO_INTERACT_REST_ENTER_HAND_CLEARANCE_v03",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "e4b32c113f9c9be5bdbb5f13f9d5e4d2e1c43a5aa6d3ac2f8fc82e650b933975"
+      },
+      "recorded_prior_reference_ids": [
+        "R101",
+        "R102"
+      ]
+    },
+    {
+      "id": "INTERACT_REST_HOLD",
+      "name_zh": "休息 坐姿保持",
+      "current_action": "HERO_NAT_INTERACT_REST_HOLD",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_INTERACT_REST_HOLD",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_rest_family_hand_v03.blend",
+        "source_action": "HERO_INTERACT_REST_HOLD_HAND_CLEARANCE_v03",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "e4b32c113f9c9be5bdbb5f13f9d5e4d2e1c43a5aa6d3ac2f8fc82e650b933975"
+      },
+      "recorded_prior_reference_ids": [
+        "R103",
+        "R104"
+      ]
+    },
+    {
+      "id": "INTERACT_REST_EXIT",
+      "name_zh": "休息 站起",
+      "current_action": "HERO_NAT_INTERACT_REST_EXIT",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_INTERACT_REST_EXIT",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": true,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_rest_family_hand_v03.blend",
+        "source_action": "HERO_INTERACT_REST_EXIT_HAND_CLEARANCE_v03",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "e4b32c113f9c9be5bdbb5f13f9d5e4d2e1c43a5aa6d3ac2f8fc82e650b933975"
+      },
+      "recorded_prior_reference_ids": [
+        "R105",
+        "R106"
+      ]
+    },
+    {
+      "id": "LOC_CROUCH_WALK",
+      "name_zh": "蹲伏 缓慢行走",
+      "current_action": "HERO_INIT_LOC_CROUCH_WALK",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_LOC_CROUCH_WALK",
+        "file": "deliverables/basic_motion_review/hero_basic_motion.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_tripo_source_repair_36_current.blend",
+        "source_action": "HERO_TRIPO_LOC_CROUCH_WALK_ChoreoRepair_v01",
+        "source_kind": "current_local_candidate",
+        "source_file_sha256": "8e350f5a220535ea6c2db0c5befbdccf36cb1e3a944f3f5d0ea570af67e56276"
+      },
+      "recorded_prior_reference_ids": [
+        "R107"
+      ],
+      "initial_selected_candidate_origin": {
+        "source_type": "Reuse existing project/CC0 basic body and hands with preview root/floor alignment",
+        "source_action": "HERO_LOC_CROUCH_WALK_FREE_v01",
+        "source_file": "validation/free_basic_candidates/LOC_CROUCH_WALK.blend"
+      }
+    },
+    {
+      "id": "DEATH_WATER_HOLD",
+      "name_zh": "水中死亡 保持无力姿势",
+      "current_action": "HERO_INIT_DEATH_WATER_HOLD",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_DEATH_WATER_HOLD",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_death_head_review_v03.blend",
+        "source_action": "HERO_DEATH_WATER_HOLD_HEAD_DROOP_v03",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "5c3a987681a6132eb6a096f48e0b64398881e3a7c8dee1e18ea0fc9daa9afb80"
+      },
+      "recorded_prior_reference_ids": [
+        "R108",
+        "R048"
+      ]
+    },
+    {
+      "id": "WATER_LEDGE_GRAB",
+      "name_zh": "水中 抓住高岸边缘",
+      "current_action": "HERO_INIT_WATER_LEDGE_GRAB",
+      "current_source_blend": "deliverables/natural_motion_review/hero_natural_current.blend",
+      "selected_pre_refinement_source": {
+        "action": "HERO_INIT_WATER_LEDGE_GRAB",
+        "file": "deliverables/extended_motion_review/hero_extended_candidates.blend"
+      },
+      "natural_polish_applied": false,
+      "initial_assembly_source": {
+        "source_file": "validation/hero_traversal_review.blend",
+        "source_action": "HERO_WATER_LEDGE_GRAB_TRAVERSAL_v02",
+        "source_kind": "retained_project_cc0_or_authored_draft",
+        "source_file_sha256": "2ef3e5db4c509e94b2d7adb0d069e27714fdc6da38cb3cd23e58451470bb6073"
+      },
+      "recorded_prior_reference_ids": [
+        "R061",
+        "R062"
+      ]
+    }
+  ]
+}

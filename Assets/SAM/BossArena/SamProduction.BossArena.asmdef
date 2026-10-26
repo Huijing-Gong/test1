@@ -1,0 +1,6 @@
+{
+  "name": "SamProduction.BossArena",
+  "rootNamespace": "SamProduction.BossArena",
+  "references": ["KingOfGraphic.Hero.Runtime","SamProduction", "Unity.InputSystem", "UnityEngine.UI", "Unity.Collections", "Unity.RenderPipelines.Core.Runtime", "Unity.RenderPipelines.Universal.Runtime"],
+  "autoReferenced": true
+}

@@ -1,0 +1,1651 @@
+fileFormatVersion: 2
+guid: 45815980783624457a97864db6537f29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9134250027808829136
+    second: LongMossLogPlatform_0
+  - first:
+      213: -3563237555216340292
+    second: LongMossLogPlatform_1
+  - first:
+      213: 6950996594545375660
+    second: LongMossLogPlatform_2
+  - first:
+      213: 2282822630010071452
+    second: LongMossLogPlatform_3
+  - first:
+      213: 8589149392748463601
+    second: LongMossLogPlatform_4
+  - first:
+      213: 2079412841608229087
+    second: LongMossLogPlatform_5
+  - first:
+      213: 2043548474416271354
+    second: LongMossLogPlatform_6
+  - first:
+      213: -318783558461050928
+    second: LongMossLogPlatform_7
+  - first:
+      213: 6748418788007718189
+    second: LongMossLogPlatform_8
+  - first:
+      213: 508954802561662886
+    second: LongMossLogPlatform_9
+  - first:
+      213: 2421115507453930620
+    second: LongMossLogPlatform_10
+  - first:
+      213: -3946982383041866961
+    second: LongMossLogPlatform_11
+  - first:
+      213: -8576462285712747718
+    second: LongMossLogPlatform_12
+  - first:
+      213: 3015419512472536340
+    second: LongMossLogPlatform_13
+  - first:
+      213: 8019572648460901517
+    second: LongMossLogPlatform_14
+  - first:
+      213: -6006465564795127599
+    second: LongMossLogPlatform_15
+  - first:
+      213: -7358746692397761248
+    second: LongMossLogPlatform_16
+  - first:
+      213: 4248659067903393563
+    second: LongMossLogPlatform_17
+  - first:
+      213: 25309836320994439
+    second: LongMossLogPlatform_18
+  - first:
+      213: 743424232055365267
+    second: LongMossLogPlatform_19
+  - first:
+      213: 4627357794428430630
+    second: LongMossLogPlatform_20
+  - first:
+      213: 3134128748259256909
+    second: LongMossLogPlatform_21
+  - first:
+      213: -4036155081138840071
+    second: LongMossLogPlatform_22
+  - first:
+      213: 5166814037545267664
+    second: LongMossLogPlatform_23
+  - first:
+      213: -3609519438920995410
+    second: LongMossLogPlatform_24
+  - first:
+      213: 5378659285436744768
+    second: LongMossLogPlatform_25
+  - first:
+      213: -9019986411720304520
+    second: LongMossLogPlatform_26
+  - first:
+      213: -7496563904060622875
+    second: LongMossLogPlatform_27
+  - first:
+      213: -7397727090212610267
+    second: LongMossLogPlatform_28
+  - first:
+      213: 2497529680782323946
+    second: LongMossLogPlatform_29
+  - first:
+      213: -3768834557767730277
+    second: LongMossLogPlatform_30
+  - first:
+      213: 3324996671480362081
+    second: LongMossLogPlatform_31
+  - first:
+      213: -392438755353237544
+    second: LongMossLogPlatform_32
+  - first:
+      213: -9165454689953465751
+    second: LongMossLogPlatform_33
+  - first:
+      213: -6414510731214556377
+    second: LongMossLogPlatform_34
+  - first:
+      213: -2455731645258844694
+    second: LongMossLogPlatform_35
+  - first:
+      213: 1354195524360763925
+    second: LongMossLogPlatform_36
+  - first:
+      213: 5629275998571284414
+    second: LongMossLogPlatform_37
+  - first:
+      213: 3296870935089311803
+    second: LongMossLogPlatform_38
+  - first:
+      213: 4172855116058959566
+    second: LongMossLogPlatform_39
+  - first:
+      213: -7745428423345945256
+    second: LongMossLogPlatform_40
+  - first:
+      213: 4436521940893917539
+    second: LongMossLogPlatform_41
+  - first:
+      213: -6048668471111481736
+    second: LongMossLogPlatform_42
+  - first:
+      213: 2270784301235172793
+    second: LongMossLogPlatform_43
+  - first:
+      213: 4284772281092815347
+    second: LongMossLogPlatform_44
+  - first:
+      213: 1582103470337775708
+    second: LongMossLogPlatform_45
+  - first:
+      213: 2377044537265896703
+    second: LongMossLogPlatform_46
+  - first:
+      213: 8308040560196523752
+    second: LongMossLogPlatform_47
+  - first:
+      213: -7949364676602636443
+    second: LongMossLogPlatform_48
+  - first:
+      213: -806891142616483615
+    second: LongMossLogPlatform_49
+  - first:
+      213: 415145435910344872
+    second: LongMossLogPlatform_50
+  - first:
+      213: -6696718835569865632
+    second: LongMossLogPlatform_51
+  - first:
+      213: -3058782838168418421
+    second: LongMossLogPlatform_52
+  - first:
+      213: 4784970123001789102
+    second: LongMossLogPlatform_53
+  - first:
+      213: 8842327209647950766
+    second: LongMossLogPlatform_54
+  - first:
+      213: -3199272984986053286
+    second: LongMossLogPlatform_55
+  - first:
+      213: 1058593375564467608
+    second: LongMossLogPlatform_56
+  - first:
+      213: 2141934615285840753
+    second: LongMossLogPlatform_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 27.550646
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 29
+    textureCompression: 2
+    compressionQuality: 80
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LongMossLogPlatform_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 25
+        width: 2131
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0315adabeff9c3180800000000000000
+      internalID: -9134250027808829136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 638
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbaaff68256dc8ec0800000000000000
+      internalID: -3563237555216340292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 634
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9b3d42396e67060800000000000000
+      internalID: 6950996594545375660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 626
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9929fa46173eaf10800000000000000
+      internalID: 2282822630010071452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_4
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 628
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5c88d8dd9c23770800000000000000
+      internalID: 8589149392748463601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_5
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 628
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0b17556fe8bdc10800000000000000
+      internalID: 2079412841608229087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_6
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 626
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff8fd2a2842c5c10800000000000000
+      internalID: 2043548474416271354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_7
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 626
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfa1b5ea04739bf0800000000000000
+      internalID: -318783558461050928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_8
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 635
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2da5ce022337ad50800000000000000
+      internalID: 6748418788007718189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_9
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 635
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afba6542bb201700800000000000000
+      internalID: 508954802561662886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_10
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 613
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c2bf5f9b7899120800000000000000
+      internalID: 2421115507453930620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_11
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 626
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2390144f608939c0800000000000000
+      internalID: -3946982383041866961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_12
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 626
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a339e8ebdf84af880800000000000000
+      internalID: -8576462285712747718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_13
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 630
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41505b9f11ce8d920800000000000000
+      internalID: 3015419512472536340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 614
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c53f195de3b4f60800000000000000
+      internalID: 8019572648460901517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 610
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d835c6746fb4aca0800000000000000
+      internalID: -6006465564795127599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 616
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02dfc8f1fda70e990800000000000000
+      internalID: -7358746692397761248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_17
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 608
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fbf1279e446fa30800000000000000
+      internalID: 4248659067903393563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_18
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 609
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7847c3b792be95000800000000000000
+      internalID: 25309836320994439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_19
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 614
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ed315766c215a00800000000000000
+      internalID: 743424232055365267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_20
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 598
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629aa81b56da73040800000000000000
+      internalID: 4627357794428430630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_21
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 604
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a2550cd79ae7b20800000000000000
+      internalID: 3134128748259256909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_22
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 618
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdd4529652bcf7c0800000000000000
+      internalID: -4036155081138840071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_23
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 618
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d133600ef534b740800000000000000
+      internalID: 5166814037545267664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_24
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 610
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead2f31c13968edc0800000000000000
+      internalID: -3609519438920995410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_25
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 610
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044405c6f16d4aa40800000000000000
+      internalID: 5378659285436744768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_26
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 609
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8789f82062292d280800000000000000
+      internalID: -9019986411720304520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_27
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 596
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7737609dad6f790800000000000000
+      internalID: -7496563904060622875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_28
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 604
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fd792086ef55990800000000000000
+      internalID: -7397727090212610267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_29
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 594
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0760f130209a220800000000000000
+      internalID: 2497529680782323946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_30
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 602
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bb90710f862bbc0800000000000000
+      internalID: -3768834557767730277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_31
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 598
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16471fa2bd2c42e20800000000000000
+      internalID: 3324996671480362081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_32
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 597
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7e21ff707cd8af0800000000000000
+      internalID: -392438755353237544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_33
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 580
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ab2682583cdc080800000000000000
+      internalID: -9165454689953465751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_34
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 593
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723760ab9741bf6a0800000000000000
+      internalID: -6414510731214556377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_35
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 578
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae539a4641d7bedd0800000000000000
+      internalID: -2455731645258844694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_36
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 560
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a72f197a11bc210800000000000000
+      internalID: 1354195524360763925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_37
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 554
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7497d02b43f1e40800000000000000
+      internalID: 5629275998571284414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_38
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 546
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30fe4cd5a6d0cd20800000000000000
+      internalID: 3296870935089311803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_39
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 558
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece9ddb8e95f8e930800000000000000
+      internalID: 4172855116058959566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_40
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 548
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8554041d2e5b28490800000000000000
+      internalID: -7745428423345945256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_41
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 562
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36165351331b19d30800000000000000
+      internalID: 4436521940893917539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_42
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 530
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8768b4f9210de0ca0800000000000000
+      internalID: -6048668471111481736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_43
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 546
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5f7a47a42738f10800000000000000
+      internalID: 2270784301235172793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_44
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 532
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f93afd10b1967b30800000000000000
+      internalID: 4284772281092815347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_45
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 528
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58556359b2c4f510800000000000000
+      internalID: 1582103470337775708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_46
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 532
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc340b9965fcf020800000000000000
+      internalID: 2377044537265896703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_47
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 518
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e61d022fd61c4370800000000000000
+      internalID: 8308040560196523752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_48
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 518
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567df05b1fe2ea190800000000000000
+      internalID: -7949364676602636443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_49
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 516
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e87fe7e7c85dc4f0800000000000000
+      internalID: -806891142616483615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_50
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 120
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a09f8d0394e2c500800000000000000
+      internalID: 415145435910344872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_51
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cc03523b97013a0800000000000000
+      internalID: -6696718835569865632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_52
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 110
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8709edf6350d85d0800000000000000
+      internalID: -3058782838168418421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_53
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 101
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaaf06a99f0a76240800000000000000
+      internalID: 4784970123001789102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_54
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 101
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab46de9fb146ba70800000000000000
+      internalID: 8842327209647950766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_55
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 95
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55176eab26e993d0800000000000000
+      internalID: -3199272984986053286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_56
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 79
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d0a100111e0be00800000000000000
+      internalID: 1058593375564467608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongMossLogPlatform_57
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 65
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bb9342f2ea9bd10800000000000000
+      internalID: 2141934615285840753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LongMossLogPlatform_0: -9134250027808829136
+      LongMossLogPlatform_1: -3563237555216340292
+      LongMossLogPlatform_10: 2421115507453930620
+      LongMossLogPlatform_11: -3946982383041866961
+      LongMossLogPlatform_12: -8576462285712747718
+      LongMossLogPlatform_13: 3015419512472536340
+      LongMossLogPlatform_14: 8019572648460901517
+      LongMossLogPlatform_15: -6006465564795127599
+      LongMossLogPlatform_16: -7358746692397761248
+      LongMossLogPlatform_17: 4248659067903393563
+      LongMossLogPlatform_18: 25309836320994439
+      LongMossLogPlatform_19: 743424232055365267
+      LongMossLogPlatform_2: 6950996594545375660
+      LongMossLogPlatform_20: 4627357794428430630
+      LongMossLogPlatform_21: 3134128748259256909
+      LongMossLogPlatform_22: -4036155081138840071
+      LongMossLogPlatform_23: 5166814037545267664
+      LongMossLogPlatform_24: -3609519438920995410
+      LongMossLogPlatform_25: 5378659285436744768
+      LongMossLogPlatform_26: -9019986411720304520
+      LongMossLogPlatform_27: -7496563904060622875
+      LongMossLogPlatform_28: -7397727090212610267
+      LongMossLogPlatform_29: 2497529680782323946
+      LongMossLogPlatform_3: 2282822630010071452
+      LongMossLogPlatform_30: -3768834557767730277
+      LongMossLogPlatform_31: 3324996671480362081
+      LongMossLogPlatform_32: -392438755353237544
+      LongMossLogPlatform_33: -9165454689953465751
+      LongMossLogPlatform_34: -6414510731214556377
+      LongMossLogPlatform_35: -2455731645258844694
+      LongMossLogPlatform_36: 1354195524360763925
+      LongMossLogPlatform_37: 5629275998571284414
+      LongMossLogPlatform_38: 3296870935089311803
+      LongMossLogPlatform_39: 4172855116058959566
+      LongMossLogPlatform_4: 8589149392748463601
+      LongMossLogPlatform_40: -7745428423345945256
+      LongMossLogPlatform_41: 4436521940893917539
+      LongMossLogPlatform_42: -6048668471111481736
+      LongMossLogPlatform_43: 2270784301235172793
+      LongMossLogPlatform_44: 4284772281092815347
+      LongMossLogPlatform_45: 1582103470337775708
+      LongMossLogPlatform_46: 2377044537265896703
+      LongMossLogPlatform_47: 8308040560196523752
+      LongMossLogPlatform_48: -7949364676602636443
+      LongMossLogPlatform_49: -806891142616483615
+      LongMossLogPlatform_5: 2079412841608229087
+      LongMossLogPlatform_50: 415145435910344872
+      LongMossLogPlatform_51: -6696718835569865632
+      LongMossLogPlatform_52: -3058782838168418421
+      LongMossLogPlatform_53: 4784970123001789102
+      LongMossLogPlatform_54: 8842327209647950766
+      LongMossLogPlatform_55: -3199272984986053286
+      LongMossLogPlatform_56: 1058593375564467608
+      LongMossLogPlatform_57: 2141934615285840753
+      LongMossLogPlatform_6: 2043548474416271354
+      LongMossLogPlatform_7: -318783558461050928
+      LongMossLogPlatform_8: 6748418788007718189
+      LongMossLogPlatform_9: 508954802561662886
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

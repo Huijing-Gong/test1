@@ -1,0 +1,279 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1000000000000000001
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1000000000000000002}
+  - component: {fileID: 1000000000000000003}
+  - component: {fileID: 1000000000000000004}
+  - component: {fileID: 1000000000000000005}
+  - component: {fileID: 1000000000000000006}
+  - component: {fileID: 1000000000000000009}
+  - component: {fileID: 1000000000000000010}
+  - component: {fileID: 1000000000000000011}
+  - component: {fileID: 1000000000000000012}
+  - component: {fileID: 1000000000000000013}
+  - component: {fileID: 4773582085036797540}
+  m_Layer: 0
+  m_Name: StoneScoutEnemy
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1000000000000000002
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000000000000000001}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3313220406855185985}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &1000000000000000003
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000000000000000001}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.48
+  m_Height: 1.8
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.9, z: 0}
+--- !u!114 &1000000000000000004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000000000000000001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4449de206ef0694c88ab3821080124e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Health
+  maxHealth: 60
+  team: 1
+  invulnerable: 0
+--- !u!114 &1000000000000000005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000000000000000001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf2c5b7c8ce147a9bc0b8d37b1106a35, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::StoneScoutCombatTarget
+--- !u!114 &1000000000000000006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000000000000000001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de0f8d39c9373c24aba66068f135a3d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CombatFeedback
+  targetRenderers: []
+  hitParticles: {fileID: 0}
+  deathParticles: {fileID: 0}
+  hitFlashColor: {r: 1, g: 0.72, b: 0.68, a: 1}
+  deathFlashColor: {r: 1, g: 0.3, b: 0.2, a: 1}
+  hitFlashDuration: 0.08
+  deathFlashDuration: 0.16
+  audioSource: {fileID: 0}
+  hitClip: {fileID: 0}
+  deathClip: {fileID: 0}
+  hitVolume: 0.45
+  deathVolume: 0.6
+--- !u!114 &1000000000000000009
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000000000000000001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c79be57d1c2340aca8c600d517154feb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NonClimbableSurface
+--- !u!54 &1000000000000000010
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000000000000000001}
+  serializedVersion: 5
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 1
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!114 &1000000000000000011
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000000000000000001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12530dac02d542389f26f6dd5f21828a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::StoneScoutRoadsideAI
+  noticeRange: 7.5
+  leashRange: 10.5
+  walkSpeed: 1.8
+  attackRange: 1.05
+  fistHitRadius: 0.3
+  attackDamage: 8
+  windupSeconds: 0.38
+  hitWindowSeconds: 0.16
+  recoverSeconds: 0.8
+  staggerSeconds: 0.3
+  lostSightSeconds: 1.2
+  turnDegreesPerSecond: 420
+  patrolRadius: 0.9
+  alertSeconds: 0.45
+  squadLinkRange: 11
+  terrain: {fileID: 0}
+--- !u!114 &1000000000000000012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000000000000000001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fc6d244f393450fa23e670ba7882d34, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::StoneScoutLootDrop
+  shardMaterial: {fileID: 2100000, guid: afbf9a4e668ad4d8591cfad2f38bf4d0, type: 2}
+  pickupClip: {fileID: 8300000, guid: 44437cac3df4d4c12bd1242d1c081410, type: 3}
+  healAmount: 15
+  lifetimeSeconds: 25
+--- !u!114 &1000000000000000013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000000000000000001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b5c43991c3c49e68a4cc1f94cef54aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::StoneScoutFeedback
+  glowMaterial: {fileID: 2100000, guid: afbf9a4e668ad4d8591cfad2f38bf4d0, type: 2}
+  windupClip: {fileID: 8300000, guid: 1e173a87c987a43b1b3504833236600f, type: 3}
+  playerHitClip: {fileID: 8300000, guid: 265d45f1d5fc1491c83a0a68fb3091dd, type: 3}
+  stoneHitClip: {fileID: 8300000, guid: 9a10d345905c4441c930410c78fb7aef, type: 3}
+--- !u!114 &4773582085036797540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000000000000000001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9408976cd2b249d1bb7fa67e9807f53d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::StoneScoutAppearance
+  look: 0
+  forestMaterial: {fileID: 2100000, guid: 9218c183151d454f93f34c354ab02e57, type: 2}
+  sandMaterial: {fileID: 2100000, guid: c699e2847d40479f8801b396b5fd16c5, type: 2}
+  awakenedMaterial: {fileID: 2100000, guid: 385a34224fb045c9976520a94b84089e, type: 2}
+--- !u!1001 &1000000000000000007
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1000000000000000002}
+    m_Modifications:
+    - target: {fileID: 2313261226299864646, guid: 034fa38e82ea54883a46b4570f08d43a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2313261226299864646, guid: 034fa38e82ea54883a46b4570f08d43a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2313261226299864646, guid: 034fa38e82ea54883a46b4570f08d43a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2313261226299864646, guid: 034fa38e82ea54883a46b4570f08d43a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2313261226299864646, guid: 034fa38e82ea54883a46b4570f08d43a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2313261226299864646, guid: 034fa38e82ea54883a46b4570f08d43a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2313261226299864646, guid: 034fa38e82ea54883a46b4570f08d43a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 034fa38e82ea54883a46b4570f08d43a, type: 3}
+--- !u!4 &3313220406855185985 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2313261226299864646, guid: 034fa38e82ea54883a46b4570f08d43a, type: 3}
+  m_PrefabInstance: {fileID: 1000000000000000007}
+  m_PrefabAsset: {fileID: 0}

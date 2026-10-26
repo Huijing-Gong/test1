@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ATK_A1",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 0.0005533249709012884,
+    "passed": true
+  },
+  {
+    "id": "EQUIP_DRAW",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 1.5111643654319951e-06,
+    "passed": true
+  },
+  {
+    "id": "HAND_GRIP_R",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 1.5111643654319951e-06,
+    "passed": true
+  },
+  {
+    "id": "ATK_A2",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 3.462111000246832e-05,
+    "passed": true
+  },
+  {
+    "id": "ATK_A3",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 5.5407892076790365e-06,
+    "passed": true
+  },
+  {
+    "id": "ATK_HEAVY",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 2.710547435281417e-06,
+    "passed": true
+  },
+  {
+    "id": "ATK_BOOST_DODGE",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 2.688493254505136e-06,
+    "passed": true
+  },
+  {
+    "id": "ATK_BOOST_GUARD",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 2.676283397001658e-06,
+    "passed": true
+  },
+  {
+    "id": "PERFECT_DODGE_F",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 4.6601970855987026e-06,
+    "passed": true
+  },
+  {
+    "id": "PERFECT_DODGE_R",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 3.2217192703928423e-06,
+    "passed": true
+  },
+  {
+    "id": "GUARD_ENTER",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 2.6073625887071565e-06,
+    "passed": true
+  },
+  {
+    "id": "GUARD_HOLD",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 2.643392076931799e-06,
+    "passed": true
+  },
+  {
+    "id": "GUARD_EXIT",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 2.6073625887071565e-06,
+    "passed": true
+  },
+  {
+    "id": "EQUIP_SHEATHE",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 1.5111643654319951e-06,
+    "passed": true
+  },
+  {
+    "id": "INTERACT_REST_ENTER",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 6.335029498087978e-06,
+    "passed": true
+  },
+  {
+    "id": "INTERACT_REST_HOLD",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 6.0935172164664195e-06,
+    "passed": true
+  },
+  {
+    "id": "INTERACT_REST_EXIT",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 6.441423055875628e-06,
+    "passed": true
+  },
+  {
+    "id": "LOC_RUN_STOP",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 0.0006138325343527038,
+    "passed": true
+  },
+  {
+    "id": "AIR_RISE",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 3.123002199467414e-06,
+    "passed": true
+  },
+  {
+    "id": "AIR_LAND_HEAVY",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 1.0520500119301897e-05,
+    "passed": true
+  },
+  {
+    "id": "ROPE_UP",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 4.715222825184764e-06,
+    "passed": true
+  },
+  {
+    "id": "LEDGE_PULLUP",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 8.689850299758032e-06,
+    "passed": true
+  },
+  {
+    "id": "OBSTACLE_MANTLE",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 8.686542675400522e-05,
+    "passed": true
+  },
+  {
+    "id": "DEATH_GROUND",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 8.890962356288586e-06,
+    "passed": true
+  },
+  {
+    "id": "DODGE_F",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 0.00042269953840113245,
+    "passed": true
+  },
+  {
+    "id": "DODGE_B",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 0.0003456671156559194,
+    "passed": true
+  },
+  {
+    "id": "DODGE_L",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 0.00034732975184008065,
+    "passed": true
+  },
+  {
+    "id": "DODGE_R",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 0.0003366053030551848,
+    "passed": true
+  },
+  {
+    "id": "GUARD_IMPACT",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 0.0006600990169499451,
+    "passed": true
+  },
+  {
+    "id": "AIR_LAND_LIGHT",
+    "sampled_poses": 11,
+    "max_skinned_vertex_error_m": 1.2702477357439673e-05,
+    "passed": true
+  }
+]

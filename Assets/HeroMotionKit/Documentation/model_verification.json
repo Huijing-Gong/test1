@@ -1,0 +1,15 @@
+{
+  "file": "Model/Hero_Model.fbx",
+  "bytes": 540988,
+  "sha256": "243cab92e8eaed689a4f6e1469faf22d8eb69c8c8df61764c14e661dabc3315b",
+  "bone_count": 65,
+  "vertices": 4805,
+  "max_rest_vertex_error_m": 4.385095527637649e-07,
+  "height_m": 0.9995117809337051,
+  "texture": "Textures/Hero_BaseColor.png",
+  "texture_size": [
+    1024,
+    1024
+  ],
+  "passed": true
+}

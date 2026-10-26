@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BoundaryCloudF31
+  m_Shader: {fileID: 4800000, guid: 064d8421cf7ee9445a3e695788c1bc11, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _CloudTex:
+        m_Texture: {fileID: 2800000, guid: a51a3edcdad149140b86fcf3209ca7a0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CloudTexB:
+        m_Texture: {fileID: 2800000, guid: d7077a753616a854a8d333efeb3c0ad9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GroundEdgeMask:
+        m_Texture: {fileID: 2800000, guid: 0a07213485fc9aa44946b65478f75b4d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _DriftMetres: 0.35
+    - _NearFade: 0.8
+    - _Opacity: 1
+    - _RiseMetres: 0.15
+    - _SoftDistance: 1.6
+    - _SoftTextureBias: 0.6
+    - _TextureColor: 1
+    m_Colors:
+    - _EdgeWorldRect: {r: -130, g: -130, b: 260, a: 260}
+    - _LitTint: {r: 1, g: 1, b: 1, a: 1}
+    - _ShadeTint: {r: 0.52, g: 0.66, b: 0.84, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

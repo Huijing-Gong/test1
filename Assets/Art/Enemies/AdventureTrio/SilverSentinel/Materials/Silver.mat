@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Silver
+  m_Shader: {fileID: 4800000, guid: 487628b73067c4a0f8a93d7febbbb868, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _RECEIVESHADOWS_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HeatMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TechMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AdditionalLightStrength: 0.48
+    - _AmbientStrength: 0.32
+    - _BumpScale: 0
+    - _Cull: 2
+    - _DebugView: 0
+    - _DeepShadeThreshold: -0.24
+    - _EmissionStrength: 0
+    - _FormStrength: 0.62
+    - _GrazingShade: 0.1
+    - _Heat: 0
+    - _HeatTintStrength: 0.42
+    - _LightColorPreservation: 0.9
+    - _Metallic: 0.65
+    - _OcclusionDirect: 0.45
+    - _OcclusionStrength: 0
+    - _ReceiveShadows: 1
+    - _RimPower: 4.5
+    - _RimStrength: 0.024
+    - _SatinReflection: 0.38
+    - _ShadeSoftness: 0.24
+    - _ShadeThreshold: 0.32
+    - _ShadowLightSaturation: 0.1
+    - _Smoothness: 0.52
+    - _SpecularAA: 1
+    - _SpecularStrength: 0.78
+    - _StyleClock: 0
+    - _StyleLive: 1
+    - _TechPulse: 0
+    - _TechStrength: 0
+    - _TechWeapon: 0
+    - _VertexAoStrength: 0.72
+    m_Colors:
+    - _ArmorColor: {r: 0.83137256, g: 0.84705883, b: 0.8666667, a: 1}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _DeepShadowColor: {r: 0.16, g: 0.2, b: 0.29, a: 1}
+    - _EmissionColor: {r: 0.26666668, g: 0.8666667, b: 0.8745098, a: 1}
+    - _HeatColor: {r: 1, g: 0.1, b: 0.025, a: 1}
+    - _RimColor: {r: 0.7372549, g: 0.7921569, b: 0.85882354, a: 1}
+    - _ShadowColor: {r: 0.4, g: 0.45, b: 0.54, a: 1}
+    - _SpecularColor: {r: 0.94509804, g: 0.9529412, b: 0.96862745, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

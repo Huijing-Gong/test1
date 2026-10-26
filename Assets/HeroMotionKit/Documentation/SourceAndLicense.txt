@@ -1,0 +1,41 @@
+HeroMotionKit — 来源与许可说明
+
+本包用于用户当前 Unity 项目的内部资产交接。交付内容为用户主角模型及其烘焙动作、接入资料；各原始素材的许可继续适用。本包整体不是 CC0，也不构成对第三方素材的新授权。未将来源库的原始角色、付费资源原始文件或整套源动画库加入本包。
+
+1. 当前交付与来源追溯
+当前导出依据 deliverables/current_motion_index.json 中的120条选择，来自 hero_natural_current.blend，包含本轮39条自然度调整。ActionSources.json 按动作ID给出当前Action、实际选中的修整前来源、首次汇总来源和已有参考记录。
+注意：motion_manifest.json 包含长期制作历史，部分参考对应已经弃用的候选。ActionSources.json 明确区分当前选择与历史参考；不能把旧版本曾引用的CC0来源，直接视为当前整条动作或整包的许可。
+
+2. 用户角色与 Tripo/Mixamo 绑定
+角色来自用户提供的Tripo主角页面，使用当前65骨Mixamo式绑定：
+https://studio.tripo3d.ai/zh/workspace/animate/anime-style-male-character-wearing-black-jacket-with-silver-trim-blac-249c4f59-3801-475c-b52d-36a6458b171f
+角色和用户账号生成/导出的内容仍按该账号取得内容时适用的服务条款与权利处理。本地资料未附完整账号授权凭证；不把“Mixamo骨架命名”当成一份动画的来源许可。
+现有候选记录将当前核心剑术描述为在实际Tripo待机/骨架上的本地编排和修整，并非声称120条全部由网站新生成。动作中的本地调整不抹除上游素材许可。
+
+3. Quaternius 免费动作来源
+现存下载包的README明确声明CC0 1.0 Universal：
+Universal Animation Library Standard：https://quaternius.com/packs/universalanimationlibrary.html
+Universal Animation Library 2 Standard：https://quaternius.com/packs/universalanimationlibrary2.html
+已逐字复制两个下载包的原README到Licenses目录。制作记录中的例子包括 Sitting_Idle_Loop 坐姿保持、Chest_Open 开箱，以及部分剑术/手型旧参考。每个动作的具体已记录参考见ActionSources.json；当前核心编排可能已改用后续本地来源，不一概归为Quaternius直接迁移。
+
+4. 项目已有素材
+references/project_source_inventory.json记录EX01–EX10位于 Assets/Kevin Iglesias/Human Animations，含待机、走跑、起跳/下落/落地、战斗受击和死亡等来源。
+EX11–EX14为项目原有的踩水、游泳、爬墙和翻顶，原路径位于 Assets/_Staging/SwimmingAnimations 和 Assets/_Staging/Climb；其中动作名包含mixamo.com。
+这些记录均明确标注“既有项目资源，沿用原资源许可；不自动认定为CC0”。本次检查未在这些源目录找到可附送的单独许可正文，故不猜测具体许可版本，也不扩大公开再分发权限。原始项目路径和来源ID保留在ActionSources.json，供项目持有人与原购买/下载记录核对。
+
+5. Traverser / Unity Kinematica 动作来源
+OBSTACLE_MANTLE的制作记录明确使用下列PullUp.fbx的拉起与站稳时序，并结合本项目LOC_IDLE起止站姿：
+https://github.com/AitorSimona/Traverser/blob/master/TraverserDemoProject/Assets/Samples/Traverser/Demo/3rdParty/Animations/KinematicaBased/Climbing/PullUp.fbx
+该子目录的Kinematica通知为Copyright © 2020 Unity Technologies ApS，指向Unity Companion License；不能用Traverser仓库MIT许可覆盖这个第三方动画。现存Kinematica通知、仓库MIT通知及已存档的Unity Companion License v1.4均保留在Licenses中。该许可文本限定与有效Unity引擎许可下创作/分发内容有关的用途。包为本Unity项目交接，不标为通用CC0动作库。
+
+6. 外观和编排参考
+既有记录含SAO公开演示和剑术理论参考，作用是动作方向、节奏或编排思路；本包没有附送其游戏模型、动画文件、视频或图片素材，也没有把公开预览视为素材使用授权。具体参考范围以ActionSources.json记录为准。
+
+附带的原始许可/通知：
+Licenses/Quaternius_UniversalAnimationLibrary_README.txt
+Licenses/Quaternius_UniversalAnimationLibrary2_README.txt
+Licenses/Traverser_Repository_MIT.txt
+Licenses/Traverser_Kinematica_Notice.txt
+Licenses/Unity_Companion_License_v1_4.txt
+
+本说明是根据现有本地来源与许可记录制作的交接索引，不替代各原始许可文本。现有许可文本按字节复制并在ActionSources.json记录SHA-256。若将本包用于公开资产下载、出售或转移至其他项目，需另行核对所有来源的原许可与账号权利。

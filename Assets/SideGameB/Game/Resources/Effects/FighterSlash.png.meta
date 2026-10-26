@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 1c49274bd7ba84c41bf03dce3e9e0384
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3976459550712999175
+    second: FighterSlash_0
+  - first:
+      213: -8073909437920903454
+    second: FighterSlash_1
+  - first:
+      213: -509898741281670911
+    second: FighterSlash_2
+  - first:
+      213: 814586330025802779
+    second: FighterSlash_3
+  - first:
+      213: -3059974517191623317
+    second: FighterSlash_4
+  - first:
+      213: -2332674406623991677
+    second: FighterSlash_5
+  - first:
+      213: -2321796853737352007
+    second: FighterSlash_6
+  - first:
+      213: 5056174308605847153
+    second: FighterSlash_7
+  - first:
+      213: 1823421143793359227
+    second: FighterSlash_8
+  - first:
+      213: 5088186730233554535
+    second: FighterSlash_9
+  - first:
+      213: -6313184168987240718
+    second: FighterSlash_10
+  - first:
+      213: -3594103548408205634
+    second: FighterSlash_11
+  - first:
+      213: -795467900533060679
+    second: FighterSlash_12
+  - first:
+      213: -3098525246833803621
+    second: FighterSlash_13
+  - first:
+      213: 516390090674885739
+    second: FighterSlash_14
+  - first:
+      213: 7611056068877160905
+    second: FighterSlash_15
+  - first:
+      213: 6019016204224466392
+    second: FighterSlash_16
+  - first:
+      213: 2029987220409168133
+    second: FighterSlash_17
+  - first:
+      213: -3426759053013612766
+    second: FighterSlash_18
+  - first:
+      213: 4029670384610742453
+    second: FighterSlash_19
+  - first:
+      213: -56429665454054225
+    second: FighterSlash_20
+  - first:
+      213: 3529932880766179068
+    second: FighterSlash_21
+  - first:
+      213: 8286111349447521938
+    second: FighterSlash_22
+  - first:
+      213: -4298279975886280594
+    second: FighterSlash_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FighterSlash_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 168
+        width: 154
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d25f7a4e83f2730800000000000000
+      internalID: 3976459550712999175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSlash_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 162
+        width: 225
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eefc04c426b3ff80800000000000000
+      internalID: -8073909437920903454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSlash_2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 272
+        width: 168
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109bc7edbc97ce8f0800000000000000
+      internalID: -509898741281670911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSlash_3
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 88
+        width: 373
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cb31883fdfd4b00800000000000000
+      internalID: 814586330025802779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSlash_4
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 121
+        width: 305
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dbb099369c885d0800000000000000
+      internalID: -3059974517191623317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSlash_5
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 371
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38828887cfca0afd0800000000000000
+      internalID: -2332674406623991677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSlash_6
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 419
+        width: 117
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b49d5c101257cfd0800000000000000
+      internalID: -2321796853737352007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSlash_7
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 359
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17668e2beb32b2640800000000000000
+      internalID: 5056174308605847153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSlash_8
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 365
+        width: 90
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b795dbf8ed71e4910800000000000000
+      internalID: 1823421143793359227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSlash_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 325
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7666d6e6fdedc9640800000000000000
+      internalID: 5088186730233554535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSlash_10
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 365
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f655ed62701368a0800000000000000
+      internalID: -6313184168987240718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSlash_11
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 397
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe68277ddd2f1ec0800000000000000
+      internalID: -3594103548408205634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSlash_12
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 344
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb4086b82ee5f4f0800000000000000
+      internalID: -795467900533060679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSlash_13
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 321
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e34e664b3dff4d0800000000000000
+      internalID: -3098525246833803621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSlash_14
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 325
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6455303d069a2700800000000000000
+      internalID: 516390090674885739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSlash_15
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 328
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c111076b27ef9960800000000000000
+      internalID: 7611056068877160905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSlash_16
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 280
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd8e1ef857d78350800000000000000
+      internalID: 6019016204224466392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSlash_17
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 304
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50132132f96fb2c10800000000000000
+      internalID: 2029987220409168133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSlash_18
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 138
+        width: 79
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227054a0cc4b170d0800000000000000
+      internalID: -3426759053013612766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSlash_19
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 282
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b092ac5dd34ce730800000000000000
+      internalID: 4029670384610742453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSlash_20
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 109
+        width: 266
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa421dba485873ff0800000000000000
+      internalID: -56429665454054225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSlash_21
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 283
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf61a0fa047dcf030800000000000000
+      internalID: 3529932880766179068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSlash_22
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 302
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296f621ee5e2ef270800000000000000
+      internalID: 8286111349447521938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSlash_23
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 120
+        width: 115
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68af1c92217954c0800000000000000
+      internalID: -4298279975886280594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FighterSlash_0: 3976459550712999175
+      FighterSlash_1: -8073909437920903454
+      FighterSlash_10: -6313184168987240718
+      FighterSlash_11: -3594103548408205634
+      FighterSlash_12: -795467900533060679
+      FighterSlash_13: -3098525246833803621
+      FighterSlash_14: 516390090674885739
+      FighterSlash_15: 7611056068877160905
+      FighterSlash_16: 6019016204224466392
+      FighterSlash_17: 2029987220409168133
+      FighterSlash_18: -3426759053013612766
+      FighterSlash_19: 4029670384610742453
+      FighterSlash_2: -509898741281670911
+      FighterSlash_20: -56429665454054225
+      FighterSlash_21: 3529932880766179068
+      FighterSlash_22: 8286111349447521938
+      FighterSlash_23: -4298279975886280594
+      FighterSlash_3: 814586330025802779
+      FighterSlash_4: -3059974517191623317
+      FighterSlash_5: -2332674406623991677
+      FighterSlash_6: -2321796853737352007
+      FighterSlash_7: 5056174308605847153
+      FighterSlash_8: 1823421143793359227
+      FighterSlash_9: 5088186730233554535
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

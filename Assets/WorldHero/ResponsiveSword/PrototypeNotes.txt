@@ -1,0 +1,41 @@
+Responsive longsword and evasion prototype (2026-10-26)
+Reference: https://www.bilibili.com/video/BV1EY41157Ep/?p=4
+Uses the project's existing sword clips and five licensed clips from the supplied
+Runner Action Animation Pack 1.4. No animation data was extracted from the video.
+
+Current overworld HeroActions library enables responsiveSwordCombat.
+LMB: three-cut chain; tap again during an attack to buffer the next cut.
+Tap Shift or RMB + direction: short grounded evasion on release; no direction retreats.
+Hold Shift or RMB for 0.20s: sprint directly, without a leading dodge.
+After 0.45s without attacking/guarding, sword rests visibly across the back.
+A fresh attack draws from the back in 0.12s, before the first damage window.
+Hold direction after the evasion to resume locomotion; hold sprint to run.
+An attack pressed in the evasion's final portion is buffered into a cut.
+The committed active sword swing cannot be erased; startup/recovery can evade.
+V also uses short evasion; the legacy roll has no player input binding.
+Perfect dodge: enemy speed 0.16x, automatic approach, hold/tap LMB for up to
+six cuts, then retreat along the approach path to the pre-rush position.
+Attacks turn toward nearby visible enemies before the active sword window.
+
+A1/A2/A3: 0.62/0.46/0.76 seconds. Their chain junctions are 0.46/0.32/0.64.
+Directional evasion: 0.42 seconds, 2.4 metre collision-controlled travel by 0.31.
+Evasion-to-attack unlock: 0.27; movement unlock: 0.31; cooldown: 0.46.
+Damage is still sampled along the displayed sword and deduplicated per action.
+This is a timing and movement prototype, not the full Naraka combat ruleset.
+
+Editor menus: Tools/Hero/Apply responsive sword prototype,
+Check responsive sword prototype, Render responsive sword poses,
+Play and verify responsive sword. Play verification uses QA.NativePlay private
+save scope and restores the normal combat input reader when finished.
+
+Link time presentation: shared runtime URP grading/bloom/chromatic edge,
+procedural radial screen shader, energy rings, crystals and impact bursts,
+bounded spectral mesh afterimages, luminous blade trail, existing audio cues.
+All presentation uses the player clock, cleans up on return/disable, and never
+owns damage. Return retraces the collision-checked path at up to 32 m/s.
+
+Death revision: compared original death and CLazy StandDie / StandDie_Root /
+TurnDie on the actual hero. Selected non-looping StandDie, 1.193s collapse,
+then its own final pose. Original clip held the body about 0.92m above ground.
+A 120Hz skin-height calibration is paired to this clip for grounded death only.
+Air death retains motor gravity and switches to collapse after real contact.
